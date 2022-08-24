@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at TML Lab, University of Sydney, Australia, supervised by Prof. Tongliang Liu. 
+I am currently a PhD student at TML Lab, University of Sydney, Australia, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
 
-I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Lee](http://www.cs.cqu.edu.cn/info/1497/5749.htm). I won the 12th China Youth Science and Technology Innovation Award (less than 35 candidates in Chinese undergraduate students each 2 year).
+I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Lee](http://www.cs.cqu.edu.cn/info/1497/5749.htm). I won the 12th China Youth Science and Technology Innovation Award (less than 35 candidates in Chinese undergraduate students each 2 years).
 
 My research interest includes learning with imperfect data and bionics. 
 
