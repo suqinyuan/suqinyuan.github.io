@@ -49,7 +49,7 @@ My research interest includes learning with imperfect data and bionics.
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2019.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+- *2019.09*, The 4th Global Grand Challenges summit，London. Research on Bionic Robot.  
 
 # 💻 Internships
 - *2019.07 - 2020.08*, Research Assistant, City University of HongKong. Advised by [Prof. LU Jian](https://scholars.cityu.edu.hk/en/persons/jian-lu(2e28d779-1155-49a2-bd2a-81aa891225cf).html).
