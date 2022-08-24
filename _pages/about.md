@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a PhD student at TML Lab, University of Sydney, Australia, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
 
-I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Lee](http://www.cs.cqu.edu.cn/info/1497/5749.htm). I won the 12th China Youth Science and Technology Innovation Award (less than 50 candidates in Chinese undergraduate and post-graduate students each 2 years).
+I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Lee](http://www.cs.cqu.edu.cn/info/1497/5749.htm). I won the 12th China Youth Science and Technology Innovation Award (less than 50 candidates in Chinese undergraduate and post-graduate students each 2 years) and the Chongqing University May·4th Youth Medal (Award one undergraduate student of Chongqing University in academic research per year).
 
 My research interest includes learning with imperfect data and bionics. 
 
@@ -41,9 +41,9 @@ My research interest includes learning with imperfect data and bionics.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # Honors and Awards
-- *2020.10*, China Youth Science and Technology Innovation Award (less than 50 candidates in Chinese undergraduate and post-graduate students each 2 years). 
+- *2020.10*, China Youth Science and Technology Innovation Award. 
 - *2020.09*, First Class Comprehensive Scholarship of Chongqing University (Top 2%). 
-- *2020.05*, Chongqing University May·4th Youth Medal (Award one undergraduate student of Chongqing University in academic research per year). 
+- *2020.05*, Chongqing University May·4th Youth Medal. 
 - *2019.10*, The 16th ‘Challenge Cup’ National College Student Academic Technology Work Competition, third prize (Top 1%). 
 - *2017.06*, China High Shcool Biology Olympiad, first prize (Ranked 12th out of 3,000+ entrants). 
 
