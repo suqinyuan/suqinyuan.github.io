@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Suqin"
   avatar           : "images/IMG_5447.jpg"
-  bio              : "PhD student in Sydney University" "Graduating from Chongqing University. "
-  location         : "Sydney, Australia" "Chongqing, China"
+  bio              : "PhD student in Sydney University"
+  location         : "Sydney, Australia" 
   employer         :
   pubmed           : 
   googlescholar    : 
