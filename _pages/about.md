@@ -49,7 +49,7 @@ My research interest includes learning with imperfect data and bionics.
 - *2020.08 - 2020.09*, Summer school student, St Catharine's College, University of Cambridge. 
 - *2020.07 - 2020.08*, Summer school student, Data Science Institute, Imperial College. 
 - *2018.09 - 2022.06*, Undergraduate, Chongqing University. 
-- *2015.09 - 2018.06*, Chongqing No.1 Middle School. 
+- *2015.09 - 2018.06*, Chongqing No.1 Secondary School. 
 
 # 💬 Invited Talks
 - *2019.09*, The 4th Global Grand Challenges Summit，London. Oral Presentation, research on bionic robot.  
