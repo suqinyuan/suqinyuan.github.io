@@ -52,5 +52,5 @@ My research interest includes learning with imperfect data and bionics.
 - *2019.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
 
 # 💻 Internships
-- *2019.07 - 2020.08*, Research Assistant, City University of HongKong. In submarine rbotics team, advised by [Prof. LU Jian]([https://lfeng-ntu.github.io](https://scholars.cityu.edu.hk/en/persons/jian-lu(2e28d779-1155-49a2-bd2a-81aa891225cf).html))
+- *2019.07 - 2020.08*, Research Assistant, City University of HongKong. Advised by [Prof. LU Jian]([https://lfeng-ntu.github.io](https://scholars.cityu.edu.hk/en/persons/jian-lu(2e28d779-1155-49a2-bd2a-81aa891225cf).html)).
 
