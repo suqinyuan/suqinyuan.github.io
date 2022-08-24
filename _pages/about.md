@@ -24,7 +24,7 @@ I graduated from College of Computer Science, Chongqing University with a bachel
 My research interest includes learning with imperfect data and bionics. 
 
 
-# 📝 Publications and project
+# Publications and project
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,23 +40,23 @@ My research interest includes learning with imperfect data and bionics.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2020.10*, China Youth Science and Technology Innovation Award (less than 50 candidates in Chinese undergraduate and post-graduate students each 2 years). 
 - *2020.09*, First Class Comprehensive Scholarship of Chongqing University (Top 2%). 
 - *2020.05*, Chongqing University May·4th Youth Medal (Award one undergraduate student of Chongqing University in academic research per year). 
 - *2019.10*, The 16th ‘Challenge Cup’ National College Student Academic Technology Work Competition, third prize (Top 1%). 
 - *2017.06*, China High Shcool Biology Olympiad, first prize (Ranked 12th out of 3,000+ entrants). 
 
-# 📖 Educations
+# Educations
 - *2022.09 - now*, PhD student, TML Lab, University of Sydney. 
 - *2020.08 - 2020.09*, Summer school student, St Catharine's College, University of Cambridge. 
 - *2020.07 - 2020.08*, Summer school student, Data Science Institute, Imperial College. 
 - *2018.09 - 2022.06*, Undergraduate, Chongqing University. 
 - *2015.09 - 2018.06*, Chongqing No.1 Secondary School. 
 
-# 💬 Invited Talks
+# Invited Talks
 - *2019.09*, The 4th Global Grand Challenges Summit, London. Oral Presentation, research on bionic robot.  
 
-# 💻 Internships
+# Internships
 - *2019.07 - 2019.08*, Research Assistant, City University of HongKong. Advised by [Prof. LU Jian](https://scholars.cityu.edu.hk/en/persons/jian-lu(2e28d779-1155-49a2-bd2a-81aa891225cf).html).
 
