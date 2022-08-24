@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Suqin Yuan"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "PhD student in Trustworthy Machine Learning Lab (TML Lab), School of Computer Science"
 repository               : "suqinyuan/suqinyuan.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Suqin"
   avatar           : "images/IMG_5447.jpg"
-  bio              : "PhD student in Sydney University"
+  bio              : "Sydney University"
   location         : "Sydney, Australia" 
   employer         :
   pubmed           : 
