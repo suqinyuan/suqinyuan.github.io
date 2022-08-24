@@ -55,7 +55,7 @@ My research interest includes learning with imperfect data and bionics.
 - *2015.09 - 2018.06*, Chongqing No.1 Secondary School. 
 
 # 💬 Invited Talks
-- *2019.09*, The 4th Global Grand Challenges Summit，London. Oral Presentation, research on bionic robot.  
+- *2019.09*, The 4th Global Grand Challenges Summit, London. Oral Presentation, research on bionic robot.  
 
 # 💻 Internships
 - *2019.07 - 2019.08*, Research Assistant, City University of HongKong. Advised by [Prof. LU Jian](https://scholars.cityu.edu.hk/en/persons/jian-lu(2e28d779-1155-49a2-bd2a-81aa891225cf).html).
