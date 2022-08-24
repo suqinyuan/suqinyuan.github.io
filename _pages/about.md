@@ -45,12 +45,15 @@ My research interest includes learning with imperfect data and bionics.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, PhD student, TML Lab, University of Sydney. 
+- *2020.08 - 2020.09*, Summer school student, St Catharine's College, University of Cambridge. 
+- *2020.07 - 2020.08*, Summer school student, Data Science Institute, Imperial College. 
+- *2018.09 - 2022.06*, Undergraduate, Chongqing University. 
+- *2015.09 - 2018.06*, Chongqing No.1 Middle School. 
 
 # 💬 Invited Talks
-- *2019.09*, The 4th Global Grand Challenges summit，London. Research on Bionic Robot.  
+- *2019.09*, The 4th Global Grand Challenges Summit，London. Oral Presentation, research on bionic robot.  
 
 # 💻 Internships
-- *2019.07 - 2020.08*, Research Assistant, City University of HongKong. Advised by [Prof. LU Jian](https://scholars.cityu.edu.hk/en/persons/jian-lu(2e28d779-1155-49a2-bd2a-81aa891225cf).html).
+- *2019.07 - 2019.08*, Research Assistant, City University of HongKong. Advised by [Prof. LU Jian](https://scholars.cityu.edu.hk/en/persons/jian-lu(2e28d779-1155-49a2-bd2a-81aa891225cf).html).
 
