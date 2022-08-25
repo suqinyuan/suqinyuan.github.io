@@ -22,7 +22,7 @@ redirect_from:
 
 I am currently a PhD student at TML Lab, University of Sydney, Australia, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
 
-I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Li](http://www.cs.cqu.edu.cn/info/1497/5749.htm). I won the 12th China Youth Science and Technology Innovation Award (less than 50 candidates in Chinese undergraduate and post-graduate students each 2 years) and the Chongqing University May·4th Youth Medal (award one undergraduate student of Chongqing University in academic research per year).
+I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Li](http://www.cs.cqu.edu.cn/info/1497/5749.htm). I won the 12th China Youth Science and Technology Innovation Award (less than 50 candidates in Chinese undergraduate and post-graduate students each 2 years) and the Chongqing University May·4th Youth Medal (award one undergraduate student/team of Chongqing University in academic research per year).
 
 My research interest includes learning with imperfect data and bionics. 
 
@@ -56,7 +56,7 @@ My research interest includes learning with imperfect data and bionics.
 - *2015.09 - 2018.06*, Chongqing No.1 Secondary School. 
 
 # Invited Talks
-- *2019.09*, The 4th Global Grand Challenges Summit, London. Oral Presentation, research on bionic robot.  
+- *2019.09*, The 4th Global Grand Challenges Summit, Royal Academy of Engineering, London. Oral Presentation, research on bionic robot.  
 
 # Internships
 - *2019.07 - 2019.08*, Research Assistant, City University of HongKong. Advised by [Prof. LU Jian](https://scholars.cityu.edu.hk/en/persons/jian-lu(2e28d779-1155-49a2-bd2a-81aa891225cf).html).
