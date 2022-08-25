@@ -36,8 +36,7 @@ My research interest includes learning with imperfect data and bionics.
 
 **Suqin Yuan**, Peiheng Song, Xiangyi Fang, etc.
 
- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [Robot terrain processing and multi-terrain gait control method and system](https://github.com)
 </div>
 </div>
 
