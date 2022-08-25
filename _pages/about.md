@@ -38,8 +38,8 @@ My research interest includes learning with imperfect data and bionics.
 
 - [Robot terrain processing and multi-terrain gait control method and system](http://www.soopat.com/Patent/201910550632)
 - [Caput femoris simulation damping structure and walking robot](http://www.soopat.com/Patent/201910542602)
-<div>
-<div>
+</div>
+</div>
 
 # Honors and Awards
 - *2020.10* China Youth Science and Technology Innovation Award. 
