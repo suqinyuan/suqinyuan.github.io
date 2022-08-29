@@ -43,7 +43,6 @@ My research interest includes learning with imperfect data and bionics.
 
 # Honors and Awards
 - *2020.10* China Youth Science and Technology Innovation Award. 
-- *2020.09* First Class Comprehensive Scholarship of Chongqing University (Top 2%). 
 - *2020.05* Chongqing University May·4th Youth Medal. 
 - *2019.10* The 16th ‘Challenge Cup’ National College Student Academic Technology Work Competition, third prize (Top 1%). 
 - *2017.06* China High Shcool Biology Olympiad, first prize (Ranked 12th out of 3,000+ entrants). 
