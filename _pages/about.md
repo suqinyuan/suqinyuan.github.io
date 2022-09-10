@@ -49,8 +49,6 @@ My research interest includes learning with imperfect data and bionics.
 
 # Educations
 - *2022.09 - now*, PhD student, School of Computer Science, University of Sydney. 
-- *2020.08 - 2020.09*, Summer school, St Catharine's College, University of Cambridge. 
-- *2020.07 - 2020.08*, Summer school, Data Science Institute, Imperial College. 
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Chongqing University. 
 - *2012.09 - 2018.06*, Chongqing No.1 Secondary School. 
 
