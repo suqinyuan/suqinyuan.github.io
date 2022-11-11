@@ -20,7 +20,7 @@ redirect_from:
 
 # About me
 
-I am currently a PhD student at Trustworthy Machine Learning Lab, University of Sydney, Australia, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
+I am currently a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), University of Sydney, Australia, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
 
 I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Li](http://www.cs.cqu.edu.cn/info/1497/5749.htm). I was awarded the 12th China Youth Science and Technology Innovation Award (less than 50 candidates in Chinese undergraduate and post-graduate students each 2 years) and the Chongqing University May·4th Youth Medal (award one undergraduate student/team of Chongqing University in academic research per year).
 
