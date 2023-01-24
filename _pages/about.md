@@ -28,7 +28,7 @@ My research goal is to create algorithms that amplify the abilities of human exp
 
 
 # Publications and Preprints
-QWQ, coming soon...
+Coming soon...
 
 # Honors and Awards
 - *2020.10* China Youth Science and Technology Innovation Award. 
