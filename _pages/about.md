@@ -22,7 +22,7 @@ redirect_from:
 
 I am currently a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), University of Sydney, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
 
-I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Li](http://www.cs.cqu.edu.cn/info/1497/5749.htm). 
+Prior to starting my PhD, I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Li](http://www.cs.cqu.edu.cn/info/1497/5749.htm). 
 
 My research goal is to create algorithms that amplify the abilities of human experts(BME researchers, doctors, etc.), and I am particularly interested in exploring the interpretability of artificial neural networks and the human brain.
 
