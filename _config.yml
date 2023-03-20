@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Suqin Yuan"
   avatar           : "images/suqin1_zheng.jpg"
-  bio              : "袁塑钦"
+  bio              : 
   location         : "Sydney, Australia" 
   employer         :
   pubmed           : 
