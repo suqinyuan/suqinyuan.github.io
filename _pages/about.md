@@ -20,20 +20,22 @@ redirect_from:
 
 # About me
 
-I am currently a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), University of Sydney, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
+I am currently visiting [Agent Mediated Intelligence Research Group](https://personal.ntu.edu.sg/boan/) as a visiting PhD student, Nanyang Technological University, invited by [Prof. Lei Feng](https://lfeng-ntu.github.io). 
+
+I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), University of Sydney, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
 
 Prior to starting my PhD, I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Li](http://www.cs.cqu.edu.cn/info/1497/5749.htm). 
 
-My research goal is to create algorithms that amplify the abilities of human experts(BME researchers, doctors, etc.), and I am particularly interested in exploring the interpretability of artificial neural networks and the human brain.
+I am particularly interested in exploring the interpretability of artificial neural networks and the human brain.
 
 
 # Publications and Preprints
-Coming soon...
+- Late Stopping: Avoiding Confidently Learning from Mislabeled Examples. *S. Yuan*, L. Feng, and T. Liu.
+  In [ICCV](https://iccv2023.thecvf.com), 2023.
 
 # Honors and Awards
 - *2020.10* China Youth Science and Technology Innovation Award. 
-- *2020.05* Chongqing University May·4th Youth Medal. 
-- *2019.10* The 16th ‘Challenge Cup’ National College Student Academic Technology Work Competition, third prize (Top 1%). 
+- *2020.05* Chongqing University May·4th Youth Medal.  
 - *2017.06* China High Shcool Biology Olympiad, first prize (Ranked 12th out of 3,000+ entrants). 
 
 # Educations
