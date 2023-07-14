@@ -20,9 +20,9 @@ redirect_from:
 
 # About me
 
-I am currently visiting [Agent Mediated Intelligence Research Group](https://personal.ntu.edu.sg/boan/) as a visiting PhD student, Nanyang Technological University, invited by [Prof. Lei Feng](https://lfeng-ntu.github.io). 
-
 I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), University of Sydney, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
+
+I am currently visiting [Agent Mediated Intelligence Research Group](https://personal.ntu.edu.sg/boan/) as a visiting PhD student, Nanyang Technological University, invited by [Prof. Lei Feng](https://lfeng-ntu.github.io). 
 
 Prior to starting my PhD, I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Li](http://www.cs.cqu.edu.cn/info/1497/5749.htm). 
 
