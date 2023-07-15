@@ -34,7 +34,7 @@ I am particularly interested in exploring the interpretability of artificial neu
 
 # Honors and Awards
 - *2020.10* China Youth Science and Technology Innovation Award. 
-- *2020.05* Chongqing University May·4th Youth Medal.  
+- *2020.05* Chongqing University Youth May·Fourth Medal.  
 - *2017.06* China High Shcool Biology Olympiad, first prize (Ranked 12th out of 3,000+ entrants). 
 
 # Educations
