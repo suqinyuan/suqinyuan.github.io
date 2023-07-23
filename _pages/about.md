@@ -24,8 +24,6 @@ I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney
 
 I am currently visiting [Agent Mediated Intelligence Research Group](https://personal.ntu.edu.sg/boan/) as a visiting PhD student, Nanyang Technological University, invited by [Prof. Lei Feng](https://lfeng-ntu.github.io). 
 
-Prior to starting my PhD, I graduated from College of Computer Science, Chongqing University with a bachelor’s degree in 2022, advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) and [Prof. Yantao Li](http://www.cs.cqu.edu.cn/info/1497/5749.htm). 
-
 I am particularly interested in exploring the interpretability of artificial neural networks and the human brain.
 
 
@@ -47,5 +45,5 @@ I am particularly interested in exploring the interpretability of artificial neu
 - *2019.09*, The 4th Global Grand Challenges Summit, Royal Academy of Engineering, London. Oral Presentation, research on bionic robot.  
 
 # Internships
-- *2019.07 - 2019.08*, Research Intern, City University of HongKong. Advised by [Prof. LU Jian](https://scholars.cityu.edu.hk/en/persons/jian-lu(2e28d779-1155-49a2-bd2a-81aa891225cf).html).
+- *2019.07 - 2019.08*, Research Intern, City University of HongKong. 
 
