@@ -22,8 +22,6 @@ redirect_from:
 
 I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), University of Sydney, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
 
-I am currently visiting [Agent Mediated Intelligence Research Group](https://personal.ntu.edu.sg/boan/) as a visiting PhD student, Nanyang Technological University, invited by [Prof. Lei Feng](https://lfeng-ntu.github.io). 
-
 I am particularly interested in exploring the interpretability of artificial neural networks and the human brain.
 
 
