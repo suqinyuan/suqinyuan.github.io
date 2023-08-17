@@ -22,8 +22,8 @@ redirect_from:
 
 I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), University of Sydney, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
 
-I am particularly interested in exploring the interpretability of artificial neural networks and the human brain. 
-Recently, I have been focusing on Deep Learning Generalization in Limitation Environment. I suggest treating deep neural networks entirely as a black-box and based on this, studying the generalization of deep neural networks. Drawing inspiration from animal ethology, I refer to this method as 'Model Ethology'.
+I am generally interested in exploring the interpretability of artificial neural networks and the human brain. 
+Recently, I have been focusing on 'Deep Learning Generalization in Limitation Environment'. I suggest treating deep neural networks entirely as a black-box and based on this, studying the generalization of deep neural networks. Drawing inspiration from animal ethology, I refer to this method as 'Model Ethology'.
 
 # Publications and Preprints
 - Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.
