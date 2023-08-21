@@ -24,25 +24,6 @@ I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney
 
 I have always been fascinated by the quest to understand the interpretability of artificial neural networks and the human brain. Lately, my primary focus has been on "Generalization in Deep Learning within Constrained Environments."
 
-# Model Ethology
-
-I propose that we consider deep neural networks entirely as a black-box, and from this perspective, investigate their generalization capabilities. Drawing inspiration from animal ethology, I coined this approach "Model Ethology."
-
-Here are some topics in Model Ethology:
-
-- **Constrained Environments**: By designing limited or "constrained" environments, we can observe how DNNs adapt or falter. For instance, how does a DNN behave when exposed to extremely noisy data, or when its architecture undergoes pruning?
-  
-- **Instinct vs. Learned Behavior**: In ethology, behaviors are categorized as instinctual or learned. Similarly, for DNNs, we can delve into the difference between behaviors resulting from inherent architectural biases versus those acquired from data.
-
-- **Social Learning**: Just as many animals acquire knowledge through social interactions, how do DNNs learn from other DNNs? Delving into this can provide insights into transfer learning, where one model's expertise is imparted to another.
-
-- **Observable Traits**: Ethologists observe specific traits or behaviors in animals. Analogously, in DNNs, these can manifest as activation patterns in particular layers, or saliency maps highlighting which segments of the input the network deems most informative.
-
-- **Evolutionary Perspectives**: Drawing inspiration from evolutionary practices in ethology, we can study the evolution of DNN architectures throughout the training phase using tools like neural architecture search. Particularly captivating is techniques that introduce randomness during model training, such as Dropout, resonate with the classic Neutral theory of molecular evolution.
-
-In conclusion, by forgoing the need to explicitly interpret the purpose of every neuron and the detailed mathematical and coding interpret of "interpretability" and "generalization theory", and instead observing the network as a holistic organism in diverse scenarios, we might unearth some interesting fact into the realm of deep learning.
-
-I am very much looking forward to any communication on this research methodology, please feel free to share your thoughts!
 
 # Publications and Preprints
 - Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.
