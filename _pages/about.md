@@ -28,7 +28,7 @@ I have always been fascinated by the quest to understand the interpretability of
 
 I propose that we consider deep neural networks entirely as a black-box, and from this perspective, investigate their generalization capabilities. Drawing inspiration from animal ethology, I coined this approach "Model Ethology."
 
-Here are some topic in Model Ethology:
+Here are some topics in Model Ethology:
 
 - **Constrained Environments**: By designing limited or "constrained" environments, we can observe how DNNs adapt or falter. For instance, how does a DNN behave when exposed to extremely noisy data, or when its architecture undergoes pruning?
   
