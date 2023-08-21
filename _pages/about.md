@@ -20,7 +20,7 @@ redirect_from:
 
 # About me
 
-I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), University of Sydney, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
+I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), The University of Sydney, supervised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). 
 
 I have always been fascinated by the quest to understand the interpretability of artificial neural networks and the human brain. Lately, my primary focus has been on "Generalization in Deep Learning within Constrained Environments."
 
@@ -36,12 +36,6 @@ I have always been fascinated by the quest to understand the interpretability of
 - *2017.06* China High Shcool Biology Olympiad, first prize (Ranked 12th out of 3,000+ entrants). 
 
 # Educations
-- *2022.09 - now*, PhD student, School of Computer Science, University of Sydney. 
+- *2022.09 - now*, PhD student, School of Computer Science, The University of Sydney. 
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Chongqing University. 
-
-# Invited Talks
-- *2019.09*, The 4th Global Grand Challenges Summit, Royal Academy of Engineering, London. Oral Presentation, research on bionic robot.  
-
-# Internships
-- *2019.07 - 2019.08*, Research Intern, City University of HongKong. 
 
