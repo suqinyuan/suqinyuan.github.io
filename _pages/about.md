@@ -28,7 +28,7 @@ I have always been fascinated by the quest to understand the interpretability of
 # Publications and Preprints
 - Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.
 
-  **S. Yuan**, L. Feng, and T. Liu. In [ICCV](https://iccv2023.thecvf.com), 2023. [\[PDF\]](https://suqinyuan.github.io)
+  **S. Yuan**, L. Feng, and T. Liu. In [ICCV](https://iccv2023.thecvf.com), 2023. [\[PDF\]](https://arxiv.org/pdf/2308.13862.pdf)
 
 # Honors and Awards
 - *2020.10* China Youth Science and Technology Innovation Award. 
