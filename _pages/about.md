@@ -30,12 +30,12 @@ I have always been fascinated by the quest to understand the interpretability of
 
   **S. Yuan**, L. Feng, and T. Liu. In [ICCV](https://iccv2023.thecvf.com), 2023. [\[PDF\]](https://arxiv.org/pdf/2308.13862.pdf)
 
+# Educations
+- *2022.09 - now*, PhD student, School of Computer Science, The University of Sydney. 
+- *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Chongqing University.
+- 
 # Honors and Awards
 - *2020.10* China Youth Science and Technology Innovation Award. 
 - *2020.05* Chongqing University Youth May·Fourth Medal.  
-- *2017.06* China High Shcool Biology Olympiad, first prize (Ranked 12th out of 3,000+ entrants). 
-
-# Educations
-- *2022.09 - now*, PhD student, School of Computer Science, The University of Sydney. 
-- *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Chongqing University. 
+- *2017.06* China High Shcool Biology Olympiad, first prize. 
 
