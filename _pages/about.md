@@ -33,7 +33,7 @@ I have always been fascinated by the quest to understand the interpretability of
 # Educations
 - *2022.09 - now*, PhD student, School of Computer Science, The University of Sydney. 
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Chongqing University.
-- 
+
 # Honors and Awards
 - *2020.10* China Youth Science and Technology Innovation Award. 
 - *2020.05* Chongqing University Youth May·Fourth Medal.  
