@@ -20,7 +20,7 @@ redirect_from:
 
 # About me
 
-I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), The University of Sydney, advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). I am also advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) from [Nanyang Technological University](https://www.ntu.edu.sg).
+I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [The University of Sydney](https://www.sydney.edu.au), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). I am also advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) from [Nanyang Technological University](https://www.ntu.edu.sg).
 
 I have always been fascinated by the quest to understand the interpretability of artificial neural networks and the human brain. Lately, my primary focus has been on "Generalization in Deep Learning within Constrained Environments."
 
