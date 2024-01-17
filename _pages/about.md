@@ -35,9 +35,6 @@ I have always been fascinated by the quest to understand the interpretability of
 
   **S. Yuan**, L. Feng, and T. Liu. In [ICCV](https://iccv2023.thecvf.com), 2023. [\[PDF\]](https://arxiv.org/pdf/2308.13862.pdf)
 
-- Multiple-Instance Learning from Triplet Comparison Bags.
-
-  Senlin Shu, Deng-Bao Wang, **S. Yuan**, Hongxin Wei, Jiuchuan Jiang, Lei Feng, Min-Ling Zhang. In [TKDD](https://dl.acm.org/journal/tkdd), 2022. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3638776)
 
 
 # Educations
