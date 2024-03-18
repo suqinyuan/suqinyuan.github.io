@@ -25,7 +25,7 @@ I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney
 I have always been fascinated by the quest to understand the interpretability of artificial neural networks and the human brain. Lately, my primary focus has been on "Generalization in Deep Learning within Constrained Environments."
 
 
-# Publications and Preprints
+# Selected Publications
 
 - Early Stopping Against Label Noise Without Validation Data.
 
