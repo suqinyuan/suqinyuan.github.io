@@ -22,7 +22,7 @@ redirect_from:
 
 I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [The University of Sydney](https://www.sydney.edu.au), advised by [Prof. Tongliang Liu](https://tongliang-liu.github.io). I am also advised by [Prof. Lei Feng](https://lfeng-ntu.github.io) from [Nanyang Technological University](https://www.ntu.edu.sg).
 
-I have always been fascinated by the quest to understand the interpretability of artificial neural networks and the human brain. Lately, my primary focus has been on "Generalization in Deep Learning within Constrained Environments."
+Lately, my primary focus has been on "Generalization in Deep Learning within Constrained Environments." I have always been fascinated by the quest to understand the interpretability of artificial neural networks and the human brain.
 
 
 # Selected Publications
@@ -33,7 +33,7 @@ I have always been fascinated by the quest to understand the interpretability of
   
 - Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.
 
-  **S. Yuan**, L. Feng, and T. Liu. In [ICCV](https://iccv2023.thecvf.com) 2023. [\[PDF\]](https://arxiv.org/pdf/2308.13862.pdf)
+  **S. Yuan**, L. Feng, and T. Liu. In [ICCV](https://iccv2023.thecvf.com) 2023. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf)
 
 
 
