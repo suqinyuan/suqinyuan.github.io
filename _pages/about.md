@@ -44,5 +44,5 @@ Lately, my primary focus has been on "Generalization in Deep Learning within Con
 # Honors and Awards
 - *2020.10* China Youth Science and Technology Innovation Award. 
 - *2020.05* Chongqing University Youth May·Fourth Medal.  
-- *2017.06* China High Shcool Biology Olympiad, first prize. 
+- *2017.06* China High Shcool Biology Olympiad, First Prize, ranked 12th.
 
