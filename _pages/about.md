@@ -22,7 +22,7 @@ redirect_from:
 
 I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [The University of Sydney](https://www.sydney.edu.au), primarily advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I am also receiving valuable advice from Prof. [Lei Feng](https://lfeng1995.github.io) of [Singapore University of Technology and Design](https://istd.sutd.edu.sg).
 
-Lately, my primary focus has been on "Generalization in Deep Learning within Constrained Environments". My work is dedicated to advancing the ability of models to generalize effectively and efficiently on large-scale, imperfect datasets, breaking through Data Bottlenecks in Machine Learning.
+Lately, my primary focus has been on "Generalization in Deep Learning within Constrained Environments". All my work is dedicated to advancing the ability of models to generalize effectively and efficiently on large-scale, imperfect data, breaking through Data Bottlenecks in Machine Learning.
 
 I have always been fascinated by the quest to understand the interpretability of artificial neural networks and the human brain.
 
