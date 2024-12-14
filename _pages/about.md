@@ -47,7 +47,7 @@ I am (mostly) a biologist in my machine learning research. I focus on empirical 
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Chongqing University.
 
 # Honors and Awards
-- *2020.10* China Youth Science and Technology Innovation Award. 
+- *2020.10* 12th China Youth Science and Technology Innovation Award. 
 - *2020.05* Chongqing University Youth May·Fourth Medal.  
-- *2017.06* China High Shcool Biology Olympiad, First Prize, ranked 12th.
+- *2017.06* 26th China High Shcool Biology Olympiad, First Prize, ranked 12th.
 
