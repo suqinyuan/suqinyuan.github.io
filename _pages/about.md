@@ -23,18 +23,18 @@ redirect_from:
 I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [The University of Sydney](https://www.sydney.edu.au), primarily advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I am also receiving valuable advice from Prof. [Lei Feng](https://lfeng1995.github.io) of [Singapore University of Technology and Design](https://istd.sutd.edu.sg). I regularly serve as a reviewer for conferences and journals such as ICLR, ICML, NeurIPS, TPAMI, TIP, and others.
 
 Lately, my primary focus has been on “Generalization in Deep Learning within Constrained Environments”. All my work is dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks in machine learning.
-I am (mostly) a biologist in my machine learning research. I focus on ‘empirical’ understanding of learning ‘theory’, viewing deep learning models as model organisms, seeking to understand the essence of machine intelligence.
+I am (mostly) a biologist in my machine learning research. I focus on empirical understanding of learning theory, viewing deep learning models as model organisms, seeking to understand the essence of machine intelligence.
 
 
 # Selected Publications
 
 - Early Stopping Against Label Noise Without Validation Data.
 
-   **Suqin Yuan**, Lei Feng, and Tongliang Liu. In [ICLR](https://iclr.cc/Conferences/2024) 2024. [\[PDF\]]( https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
+   **S. Yuan**, L. Feng, and T. Liu. In International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[PDF\]]( https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
   
 - Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.
 
-  **Suqin Yuan**, Lei Feng, and Tongliang Liu. In [ICCV](https://iccv2023.thecvf.com) 2023. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[CODE\]](https://github.com/tmllab/2023_ICCV_LateStopping)
+  **S. Yuan**, L. Feng, and T. Liu. In International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[CODE\]](https://github.com/tmllab/2023_ICCV_LateStopping)
 
 
 
