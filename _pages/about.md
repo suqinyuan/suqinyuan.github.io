@@ -28,23 +28,17 @@ I am (mostly) a biologist in my machine learning research. I focus on empirical 
 
 # Selected Publications
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 5px; background-color: orange; margin-right: 10px;"></div>
-  <div>
-    - **Early Stopping Against Label Noise Without Validation Data**  
-      **S. Yuan**, L. Feng, and T. Liu.  
-      In International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[PDF\]]( https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
-  </div>
-</div>
+- **Early Stopping Against Label Noise Without Validation Data.**
 
-<div style="display: flex; align-items: center; margin-top: 10px;">
-  <div style="width: 5px; background-color: orange; margin-right: 10px;"></div>
-  <div>
-    - **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples**  
-      **S. Yuan**, L. Feng, and T. Liu.  
-      In International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[CODE\]](https://github.com/tmllab/2023_ICCV_LateStopping)
-  </div>
-</div>
+   **S. Yuan**, L. Feng, and T. Liu.
+
+  In International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[PDF\]]( https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
+  
+- **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
+
+  **S. Yuan**, L. Feng, and T. Liu.
+
+  In International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[CODE\]](https://github.com/tmllab/2023_ICCV_LateStopping)
 
 
 
