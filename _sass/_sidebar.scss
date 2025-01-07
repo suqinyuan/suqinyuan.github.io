@@ -81,9 +81,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 120px;
-  // set width only, for non-square avatars
-  // height: 150px;
+  width: 200px;  /* 增加默认宽度 */
 
   @include breakpoint($large) {
     display: block;
@@ -92,9 +90,9 @@
   }
 
   img {
-    max-width: 200px;
-    min-width: 120px;
-    border-radius: 50%;
+    max-width: 300px;    /* 增加最大宽度 */
+    min-width: 200px;    /* 增加最小宽度 */
+    // border-radius: 50%;  /* 删除圆形边框 */
 
     @include breakpoint($large) {
       padding: 5px;
