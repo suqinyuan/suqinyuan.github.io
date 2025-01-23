@@ -28,6 +28,12 @@ My primary focus has been on “Generalization in Deep Learning within Constrain
 
 # Selected Publications
 
+- **Instance-dependent Early Stopping.**
+  
+  **S. Yuan**, R. Lin, B. Han, L. Feng, and T. Liu.
+
+  International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025.
+
 - **Early Stopping Against Label Noise Without Validation Data.**
 
   **S. Yuan**, L. Feng, and T. Liu.
