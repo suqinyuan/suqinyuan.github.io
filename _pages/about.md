@@ -22,7 +22,7 @@ redirect_from:
 
 I am a PhD student at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [The University of Sydney](https://www.sydney.edu.au), primarily advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I am also receiving valuable advice from Prof. [Lei Feng](https://lfeng1995.github.io). I regularly serve as a reviewer for ICLR, ICML, NeurIPS, TPAMI, and others.
 
-My primary focus has been on “Generalization in Deep Learning within Constrained Environments”. At present, most of my works are dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks in machine learning.
+My primary focus has been on “Generalization in Deep Learning within Constrained Environments”. At present, most of my works are dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks in machine learning. I welcome collaboration opportunities across all areas. Please don't hesitate to get in touch if you'd like to discuss potential collaborations.
 <!-- I am (mostly) a biologist in my machine learning research. I focus on empirical understanding of learning theory, studying typical machine learning models as model organisms to derive generalizable insights into machine intelligence. -->
 
 
