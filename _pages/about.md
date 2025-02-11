@@ -33,7 +33,7 @@ My primary focus has been on “Generalization in Deep Learning within Constrain
 
   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[CODE\]](https://github.com/tmllab/2025_ICLR_IES)
   
-  (<span style="color: rgb(21,96,90)">Spotlight</span>, Acceptance Rate: ～5%)
+  (<span style="color: rgb(21,96,90)">Spotlight</span>, Acceptance Rate: 5.1%)
   
 - **Early Stopping Against Label Noise Without Validation Data.**
 
