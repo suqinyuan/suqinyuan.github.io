@@ -33,7 +33,9 @@ My primary focus has been on “Generalization in Deep Learning within Constrain
   **S. Yuan**, R. Lin, L. Feng, B. Han, and T. Liu.
 
   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. [\[CODE\]](https://github.com/tmllab/2025_ICLR_IES)
-
+  
+  (Spotlight, Acceptance Rate: ～5%)
+  
 - **Early Stopping Against Label Noise Without Validation Data.**
 
   **S. Yuan**, L. Feng, and T. Liu.
