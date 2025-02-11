@@ -25,14 +25,13 @@ I am a third-year PhD candidate at [Sydney Artificial Intelligence Centre](https
 My primary focus has been on “Generalization in Deep Learning within Constrained Environments”. At present, most of my works are dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks in machine learning. I welcome collaboration opportunities across all areas. Please don't hesitate to get in touch if you'd like to discuss potential collaborations.
 <!-- I am (mostly) a biologist in my machine learning research. I focus on empirical understanding of learning theory, studying typical machine learning models as model organisms to derive generalizable insights into machine intelligence. -->
 
-
 # Selected Publications
 
 - **Instance-dependent Early Stopping.**
   
   **S. Yuan**, R. Lin, L. Feng, B. Han, and T. Liu.
 
-  International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. [\[CODE\]](https://github.com/tmllab/2025_ICLR_IES)
+  International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[CODE\]](https://github.com/tmllab/2025_ICLR_IES)
   
   (<span style="color: rgb(21,96,90)">Spotlight</span>, Acceptance Rate: ～5%)
   
@@ -40,7 +39,7 @@ My primary focus has been on “Generalization in Deep Learning within Constrain
 
   **S. Yuan**, L. Feng, and T. Liu.
 
-  International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[PDF\]]( https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
+  International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[PDF\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
   
 - **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
 
