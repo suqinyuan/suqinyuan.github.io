@@ -31,7 +31,7 @@ My primary focus has been on “Generalization in Deep Learning within Constrain
 
   **S. Yuan**, L. Feng, B. Han, and T. Liu.
 
-  arXiv preprint, 2025. [\[PDF\]]()
+  arXiv preprint, 2025. [\[PDF\]](https://arxiv.org/pdf/2502.08227)
 
 - **Instance-dependent Early Stopping.**
   
