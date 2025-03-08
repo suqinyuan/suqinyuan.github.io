@@ -60,7 +60,7 @@ My primary focus has been on “Generalization in Deep Learning within Constrain
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Chongqing University.
 
 ## Honors and Awards
-- 12th China Youth Science and Technology Innovation Award, <100 recipients biennially, *2020* 
-- Chongqing University Youth May·Fourth Medal, 1 undergraduate recipient in academic annually, *2020*
+- 12th China Youth Science and Technology Innovation Award, 100 recipients biennially, *2020* 
+- Chongqing University Youth May·Fourth Medal, 5 recipients annually, *2020*
 - 26th China High Shcool Biology Olympiad, First Prize, ranked 12th, *2017* 
 
