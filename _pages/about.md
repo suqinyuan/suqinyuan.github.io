@@ -24,14 +24,15 @@ I am a third-year PhD candidate at [Sydney Artificial Intelligence Centre](https
 
 My primary focus has been on “Overfitting in Modern Deep Learning”. At present, most of my works are dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks. I welcome collaboration opportunities across all areas.
 <!-- I am (mostly) a biologist in my machine learning research. I focus on empirical understanding of learning theory, studying typical machine learning models as model organisms to derive generalizable insights into machine intelligence. -->
-
-## Selected Publications and Preprints
+## Working Paper
 
 - **Enhancing Sample Selection by Cutting Mislabeled Easy Examples.**
 
   **S. Yuan**, L. Feng, B. Han, and T. Liu.
 
   arXiv preprint, 2025. [\[PDF\]](https://arxiv.org/pdf/2502.08227)
+
+## Selected Publications
 
 - **Instance-dependent Early Stopping.**
   
