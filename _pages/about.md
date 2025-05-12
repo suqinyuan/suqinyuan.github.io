@@ -26,7 +26,7 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
 <!-- I am (mostly) a biologist in my machine learning research. I focus on empirical understanding of learning theory, studying typical machine learning models as model organisms to derive generalizable insights into machine intelligence. -->
 ## Working Paper
 
-- **Enhancing Sample Selection by Cutting Mislabeled Easy Examples.**
+- **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
 
   **S. Yuan**, L. Feng, B. Han, and T. Liu.
 
