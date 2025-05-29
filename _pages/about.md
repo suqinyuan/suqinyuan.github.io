@@ -20,9 +20,9 @@ redirect_from:
 <br>
 ## About me
 
-I am a third-year PhD candidate at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [The University of Sydney](https://www.sydney.edu.au), primarily advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I am also receiving valuable advice from Prof. [Lei Feng](https://lfeng1995.github.io). I regularly serve as a reviewer for ICLR, ICML, NeurIPS, TPAMI, and others.
+I am a final-year PhD candidate at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [The University of Sydney](https://www.sydney.edu.au), primarily advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I am also receiving valuable advice from Prof. [Lei Feng](https://lfeng1995.github.io). I regularly serve as a reviewer for ICLR, ICML, NeurIPS, TPAMI, and others. 
 
-My primary focus has been on “Overfitting in Modern Deep Learning”. At present, most of my works are dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks. I welcome collaboration opportunities across all areas.
+My primary focus has been on “Overfitting in Modern Deep Learning”. At present, most of my works are dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks. I welcome collaboration opportunities across all areas. I am actively exploring postdoctoral research opportunities.
 <!-- I am (mostly) a biologist in my machine learning research. I focus on empirical understanding of learning theory, studying typical machine learning models as model organisms to derive generalizable insights into machine intelligence. -->
 ## Working Paper
 
@@ -61,6 +61,7 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Chongqing University.
 
 ## Honors and Awards
+- International Conference on Machine Learning, Top Reviewer Award, 2% in reviewers, *2025* 
 - 12th China Youth Science and Technology Innovation Award, 100 recipients biennially, *2020* 
 - Chongqing University Youth May·Fourth Medal, 5 recipients annually, *2020*
 - 26th China High Shcool Biology Olympiad, First Prize, ranked 12th, *2017* 
