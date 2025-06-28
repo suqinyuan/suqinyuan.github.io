@@ -24,14 +24,6 @@ I am a final-year PhD candidate at [Sydney Artificial Intelligence Centre](https
 
 My primary focus has been on “Overfitting in Modern Deep Learning”. At present, most of my works are dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks. I welcome collaboration opportunities across all areas. I am actively exploring postdoctoral research opportunities.
 
-## Working Paper
-
-- **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
-
-  **S. Yuan**, L. Feng, B. Han, and T. Liu.
-
-  arXiv preprint, 2025. [\[PDF\]](https://arxiv.org/pdf/2502.08227)
-
 ## Selected Publications
 
 - **Instance-dependent Early Stopping.**
