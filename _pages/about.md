@@ -20,7 +20,7 @@ redirect_from:
 <br>
 ## About me
 
-I am a final-year PhD candidate at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [The University of Sydney](https://www.sydney.edu.au), primarily advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I am also receiving valuable advice from Prof. [Lei Feng](https://lfeng1995.github.io). I regularly serve as a reviewer for ICLR, ICML, NeurIPS, TPAMI, and others. 
+I am a final-year PhD candidate at [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [The University of Sydney](https://www.sydney.edu.au), advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I am also receiving valuable advice from Prof. [Lei Feng](https://lfeng1995.github.io). I regularly serve as a reviewer for ICLR, ICML, NeurIPS, TPAMI, and others. 
 
 Currently, I am visiting Singapore, serving as a Research Officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar) and collaborating with Prof. [Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) and Dr. [Xingrui Yu](https://xingruiyu.github.io).
 
