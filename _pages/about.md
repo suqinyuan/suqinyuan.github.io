@@ -51,8 +51,8 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
 
 
 ## Educations
-- *2022.09 - now*, PhD student, School of Computer Science, The University of Sydney. 
-- *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Chongqing University.
+- *2022 - now*, PhD student, School of Computer Science, The University of Sydney. 
+- *2018 - 2022*, Undergraduate, School of Computer Science, Chongqing University.
 
 ## Honors and Awards
 - International Conference on Machine Learning, Top Reviewer Award, 2% in reviewers, *2025* 
