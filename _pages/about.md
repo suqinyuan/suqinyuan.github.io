@@ -28,6 +28,12 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
 
 ## Selected Publications
 
+- **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
+  
+  **S. Yuan**, L. Feng, B. Han, and T. Liu.
+
+  Annual Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[PDF\]]() [\[CODE\]]()
+  
 - **Instance-dependent Early Stopping.**
   
   **S. Yuan**, R. Lin, L. Feng, B. Han, and T. Liu.
