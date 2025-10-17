@@ -61,6 +61,7 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
 - *2018 - 2022*, Undergraduate, School of Computer Science, Chongqing University.
 
 ## Honors and Awards
+- Annual Conference on Neural Information Processing Systems, Top Reviewer Award, *2025* 
 - International Conference on Machine Learning, Top Reviewer Award, 2% in reviewers, *2025* 
 - 12th China Youth Science and Technology Innovation Award, 100 recipients biennially, *2020* 
 - Chongqing University Youth May·Fourth Medal, 5 recipients annually, *2020*
