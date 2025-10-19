@@ -50,7 +50,7 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
   
 - **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
 
-  **Suqin Yuan**, Lei Feng, and Tongliang Liu.
+  <small><b>Suqin Yuan</b>, Lei Feng, and Tongliang Liu.</small>
 
   International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[CODE\]](https://github.com/tmllab/2023_ICCV_LateStopping)
 
