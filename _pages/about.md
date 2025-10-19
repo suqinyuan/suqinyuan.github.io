@@ -30,13 +30,13 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
 
 - **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
   
-  **S. Yuan**, L. Feng, B. Han, and T. Liu.
+  **Suqin Yuan**, Lei Feng, Bo Han, and Tongliang Liu.
 
   Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[PDF\]]() [\[CODE\]]()
   
 - **Instance-dependent Early Stopping.**
   
-  **S. Yuan**, R. Lin, L. Feng, B. Han, and T. Liu.
+  **Suqin Yuan**, Runqi Lin, Lei Feng, Bo Han, and Tongliang Liu.
 
   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[CODE\]](https://github.com/tmllab/2025_ICLR_IES)
   
@@ -44,13 +44,13 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
   
 - **Early Stopping Against Label Noise Without Validation Data.**
 
-  **S. Yuan**, L. Feng, and T. Liu.
+  **Suqin Yuan**, Lei Feng, and Tongliang Liu.
 
   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[PDF\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
   
 - **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
 
-  **S. Yuan**, L. Feng, and T. Liu.
+  **Suqin Yuan**, Lei Feng, and Tongliang Liu.
 
   International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[CODE\]](https://github.com/tmllab/2023_ICCV_LateStopping)
 
