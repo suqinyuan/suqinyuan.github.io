@@ -32,7 +32,7 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
   
   **Suqin Yuan**, Lei Feng, Bo Han, and Tongliang Liu.
 
-  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[PDF\]]() [\[CODE\]]()
+  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[CODE\]]()
   
 - **Instance-dependent Early Stopping.**
   
