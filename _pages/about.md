@@ -61,6 +61,7 @@ My primary focus has been on “Overfitting in Modern Deep Learning”. At prese
 - *2018 - 2022*, Undergraduate, School of Computer Science, Chongqing University.
 
 ## Honors and Awards
+- USYD Faculty of Engineering Career Advancement Award, *2025*
 - Top Reviewer Award, Annual Conference on Neural Information Processing Systems, *2025* 
 - Top Reviewer Award, International Conference on Machine Learning, 2% in reviewers, *2025* 
 - 12th China Youth Science and Technology Innovation Award, 100 recipients biennially, *2020* 
