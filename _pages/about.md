@@ -24,7 +24,7 @@ I am a final-year PhD candidate at [Sydney Artificial Intelligence Centre](https
 
 Currently, I am visiting Singapore. I am now visiting Prof. [Bo An](https://personal.ntu.edu.sg/boan/)'s group at Nanyang Technological University ([NTU](https://www.ntu.edu.sg)). Prior to this, I served as a Research Officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar) and collaborating with Prof. [Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) and Dr. [Xingrui Yu](https://xingruiyu.github.io).
 
-My primary focus has been on “Overfitting in Modern Deep Learning”. At present, most of my works are dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks. I welcome collaboration opportunities across all areas. I am actively exploring postdoctoral research opportunities.
+At present, most of my works are dedicated to promoting machine learning models that can effectively and efficiently generalize on large-scale, imperfect data, breaking through data bottlenecks. I welcome collaboration opportunities across all areas. **I am actively exploring postdoctoral research opportunities.**
 
 ## Selected Publications
 
