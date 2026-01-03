@@ -32,7 +32,7 @@ At present, most of my works are dedicated to promoting machine learning models 
   
   **Suqin Yuan**, Lei Feng, Bo Han, and Tongliang Liu.
 
-  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[CODE\]]()
+  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[CODE\]](https://github.com/tmllab/2025_NeurIPS_MEE)
   
 - **Instance-dependent Early Stopping.**
   
