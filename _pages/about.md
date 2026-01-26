@@ -28,6 +28,12 @@ My research focuses on developing machine learning methods that generalize effec
 
 ## Selected Publications
 
+- **Mitigating Mismatch within Reference-based Preference Optimization.**
+
+  **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, and Tongliang Liu.
+
+   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026. [\[PDF\]]() [\[CODE\]]()
+
 - **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
   
   **Suqin Yuan**, Lei Feng, Bo Han, and Tongliang Liu.
