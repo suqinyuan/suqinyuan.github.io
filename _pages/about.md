@@ -71,6 +71,5 @@ My research focuses on developing machine learning methods that generalize effec
 - Top Reviewer Award, Annual Conference on Neural Information Processing Systems, *2025* 
 - Top Reviewer Award, International Conference on Machine Learning, 2% in reviewers, *2025* 
 - 12th China Youth Science and Technology Innovation Award, 100 recipients biennially, *2020* 
-- Chongqing University Youth May·Fourth Medal, 5 recipients annually, *2020*
 - 26th China High Shcool Biology Olympiad, First Prize, ranked 12th, *2017* 
 
