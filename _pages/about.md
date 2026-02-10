@@ -24,7 +24,7 @@ I am a final-year PhD candidate at the [Sydney Artificial Intelligence Centre](h
 
 In late 2025, I visited the AI-for-X Centre at Nanyang Technological University ([NTU](https://www.ntu.edu.sg)), where I collaborated with Prof. [Bo An](https://personal.ntu.edu.sg/boan/). Earlier in Singapore, I was a Research Officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar), where I worked with Prof. [Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) and Dr. [Xingrui Yu](https://xingruiyu.github.io).
 
-I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, AISTATS, as well as TPAMI, TIP, JAIR, TMLR, and MLJ. I welcome collaboration opportunities across related areas. **I am actively exploring postdoctoral research opportunities.**
+I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, ACL, UAI, AISTATS, as well as TPAMI, TIP, JAIR, TMLR, and MLJ. I welcome collaboration opportunities across related areas. **I am actively exploring postdoctoral research opportunities.**
 
 ## Selected Publications
 
