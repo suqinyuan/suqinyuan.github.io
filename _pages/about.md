@@ -71,5 +71,5 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, ACL, 
 - Top Reviewer Award, Annual Conference on Neural Information Processing Systems, *2025* 
 - Top Reviewer Award, International Conference on Machine Learning, 2% in reviewers, *2025* 
 - 12th China Youth Science and Technology Innovation Award, 100 recipients biennially, *2020* 
-- 26th China High Shcool Biology Olympiad, First Prize, ranked 12th, *2017* 
+- 26th China High School Biology Olympiad, First Prize, ranked 12th, *2017* 
 
