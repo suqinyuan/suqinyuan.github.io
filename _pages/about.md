@@ -22,7 +22,7 @@ redirect_from:
 
 I am a final-year PhD candidate at the [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au), advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io), and I also receive valuable guidance from Prof. [Lei Feng](https://lfeng1995.github.io). I develop machine learning methods that generalize effectively and efficiently from imperfect data, and I currently focus on post-training alignment under imperfect supervision.
 
-In late 2025, I visited the AI-for-X Centre at Nanyang Technological University ([NTU](https://www.ntu.edu.sg)), where I collaborated with Prof. [Bo An](https://personal.ntu.edu.sg/boan/). Earlier in Singapore, I was a Research Officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar), where I worked with Prof. [Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) and Dr. [Xingrui Yu](https://xingruiyu.github.io).
+In late 2025, I visited the AI-for-X Centre at Nanyang Technological University ([NTU](https://www.ntu.edu.sg)). Earlier in Singapore, I was a Research Officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar).
 
 I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, ACL, UAI, AISTATS, as well as TPAMI, TIP, JAIR, TMLR, and MLJ. I welcome collaboration opportunities across related areas. **I am actively exploring postdoctoral research opportunities.**
 
