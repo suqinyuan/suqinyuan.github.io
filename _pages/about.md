@@ -31,7 +31,7 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
 
   **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, and Tongliang Liu.
 
-   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026. [\[PDF\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[CODE\]]()
+   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026. [\[PDF\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[CODE\]](https://github.com/tmllab/2026_ICLR_HyPO)
 
 - **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
   
