@@ -27,6 +27,14 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
 
 ## Selected Publications
 
+- **Instance-dependent Early Stopping for Adaptive Data Pruning.**
+  
+  **Suqin Yuan**, Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, and Tongliang Liu.
+
+  IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)), accepted in 2026.
+  
+  Earlier version: <span style="color: rgb(51,130,90)">Spotlight (top 5%)</span> at International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[CODE\]](https://github.com/tmllab/2025_ICLR_IES)
+
 - **Mitigating Mismatch within Reference-based Preference Optimization.**
 
   **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, and Tongliang Liu.
@@ -38,14 +46,6 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
   **Suqin Yuan**, Lei Feng, Bo Han, and Tongliang Liu.
 
   Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[CODE\]](https://github.com/tmllab/2025_NeurIPS_MEE)
-  
-- **Instance-dependent Early Stopping.**
-  
-  **Suqin Yuan**, Runqi Lin, Lei Feng, Bo Han, and Tongliang Liu.
-
-  International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[CODE\]](https://github.com/tmllab/2025_ICLR_IES)
-  
-  (<span style="color: rgb(51,130,90)">This paper was selected for spotlight presentation</span>, acceptance rate: 5%.)
   
 - **Early Stopping Against Label Noise Without Validation Data.**
 
