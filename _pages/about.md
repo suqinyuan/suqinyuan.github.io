@@ -35,7 +35,7 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
 
 - **Instance-dependent Early Stopping for Adaptive Data Pruning.**
   
-  **Suqin Yuan**, Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, and Tongliang Liu.
+  **Suqin Yuan**, Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)), accepted in 2026.
   
