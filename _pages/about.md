@@ -29,7 +29,7 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
 
 - **Mitigating Mismatch within Reference-based Preference Optimization.**
 
-  **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, and Tongliang Liu.
+  **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, Tongliang Liu.
 
    International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026. [\[PDF\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[CODE\]](https://github.com/tmllab/2026_ICLR_HyPO)
 
@@ -43,19 +43,19 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
 
 - **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
   
-  **Suqin Yuan**, Lei Feng, Bo Han, and Tongliang Liu.
+  **Suqin Yuan**, Lei Feng, Bo Han, Tongliang Liu.
 
   Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[CODE\]](https://github.com/tmllab/2025_NeurIPS_MEE)
   
 - **Early Stopping Against Label Noise Without Validation Data.**
 
-  **Suqin Yuan**, Lei Feng, and Tongliang Liu.
+  **Suqin Yuan**, Lei Feng, Tongliang Liu.
 
   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[PDF\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
   
 - **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
 
-  <small><b>Suqin Yuan</b>, Lei Feng, and Tongliang Liu.</small>
+  <small><b>Suqin Yuan</b>, Lei Feng, Tongliang Liu.</small>
 
   International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[CODE\]](https://github.com/tmllab/2023_ICCV_LateStopping)
 
