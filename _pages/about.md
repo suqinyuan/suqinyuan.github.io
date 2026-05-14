@@ -66,6 +66,7 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
 - *2018 - 2022*, Undergraduate, School of Computer Science, Chongqing University.
 
 ## Honors and Awards
+- Gold Reviewer, International Conference on Machine Learning, *2026* 
 - USYD Faculty of Engineering Career Advancement Award, *2025*
 - Top Reviewer Award, Annual Conference on Neural Information Processing Systems, *2025* 
 - Top Reviewer Award, International Conference on Machine Learning, 2% in reviewers, *2025* 
