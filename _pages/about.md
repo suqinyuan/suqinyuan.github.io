@@ -62,8 +62,8 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
 
 
 ## Educations
-- *2022 - now*, PhD student, School of Computer Science, The University of Sydney. 
-- *2018 - 2022*, Undergraduate, School of Computer Science, Chongqing University.
+- *2022 - 2026*, Ph.D., School of Computer Science, The University of Sydney. 
+- *2018 - 2022*, B.Eng, School of Computer Science, Chongqing University.
 
 ## Honors and Awards
 - Gold Reviewer, International Conference on Machine Learning, *2026* 
