@@ -39,7 +39,7 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)), accepted in 2026.
   
-  Preliminary version in International Conference on Learning Representations (<span style="color: rgb(51,130,90)">Spotlight (top 5%)</span>) ([ICLR](https://iclr.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[CODE\]](https://github.com/tmllab/2025_ICLR_IES)
+  Earlier version in International Conference on Learning Representations (<span style="color: rgb(51,130,90)">Spotlight (top 5%)</span>) ([ICLR](https://iclr.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[CODE\]](https://github.com/tmllab/2025_ICLR_IES)
 
 - **Early Stopping Without Validation Data in Weakly Supervised Learning.**
 
@@ -47,7 +47,7 @@ I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, 
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)), accepted in 2026.
 
-  Preliminary version in International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[PDF\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
+  Earlier version in International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[PDF\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[CODE\]](https://github.com/tmllab/2024_ICLR_LabelWave)
   
 - **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
   
