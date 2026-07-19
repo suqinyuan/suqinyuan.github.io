@@ -20,9 +20,9 @@ redirect_from:
 <br>
 ## About me
 
-I received my PhD from the [Sydney Artificial Intelligence Centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au), advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io), in close collaboration with Prof. [Lei Feng](https://lfeng1995.github.io). I study overfitting in machine learning, and work on LLMs pre/post-training under imperfect supervision.
+I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au), advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I study overfitting in machine learning and work on LLM pre-training and post-training under imperfect supervision.
 
-I am currently a student visitor at the [Torr Vision Group](https://torrvision.com/) at the University of Oxford, where I work on human-like LLMs and overfitting in pre-training. In late 2025, I visited the [AI-for-X Centre](https://www.ntu.edu.sg/ai-x) at Nanyang Technological University, where I worked on overfitting in RLVR. Earlier in Singapore, I was a research officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar), where I worked on overfitting in RLHF.
+I am currently a student visitor at the [Torr Vision Group](https://torrvision.com/) at the University of Oxford, where I work on human-like LLMs and overfitting in pre-training. In late 2025, I visited the [AI-for-X Centre](https://www.ntu.edu.sg/ai-x) at Nanyang Technological University, where I worked on overfitting in RLVR. Earlier in Singapore, I was a research officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar), where I worked on overfitting in RLHF. I work in close collaboration with Prof. [Lei Feng](https://lfeng1995.github.io).
 I regularly serve as a reviewer for ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, UAI, AISTATS, as well as TPAMI, TIP, TMLR, JAIR, and MLJ. **I am actively exploring postdoctoral research opportunities.**
 
 ## Selected Publications
