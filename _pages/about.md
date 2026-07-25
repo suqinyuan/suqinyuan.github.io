@@ -52,7 +52,7 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
   
   **Suqin Yuan**, Lei Feng, Bo Han, Tongliang Liu.
 
-  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\Paper\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[Code\]](https://github.com/tmllab/2025_NeurIPS_MEE)
+  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[Paper\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[Code\]](https://github.com/tmllab/2025_NeurIPS_MEE)
   
 - **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
 
