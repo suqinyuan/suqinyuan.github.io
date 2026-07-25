@@ -30,7 +30,7 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
 
   **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, Tongliang Liu.
 
-   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026. [\[PDF\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[CODE\]](https://github.com/tmllab/2026_ICLR_HyPO)
+   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026. [\[Paper\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[Code\]](https://github.com/tmllab/2026_ICLR_HyPO)
 
 - **Instance-dependent Early Stopping for Adaptive Data Pruning.**
   
@@ -52,13 +52,13 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
   
   **Suqin Yuan**, Lei Feng, Bo Han, Tongliang Liu.
 
-  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[PDF\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[CODE\]](https://github.com/tmllab/2025_NeurIPS_MEE)
+  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\Paper\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[Code\]](https://github.com/tmllab/2025_NeurIPS_MEE)
   
 - **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
 
   <small><b>Suqin Yuan</b>, Lei Feng, Tongliang Liu.</small>
 
-  International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[CODE\]](https://github.com/tmllab/2023_ICCV_LateStopping)
+  International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/tmllab/2023_ICCV_LateStopping)
 
 
 
