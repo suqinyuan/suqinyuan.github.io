@@ -38,7 +38,7 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
 
-  Previously appeared at [ICLR](https://iclr.cc/Conferences/2025) 2025 (<span style="color: rgb(51,130,90)">Spotlight</span>, Top 5%). [\[Paper\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[Code\]](https://github.com/tmllab/2025_ICLR_IES)
+  Previously appeared at International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025 (<span style="color: rgb(51,130,90)">Spotlight</span>, Top 5%). [\[Paper\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[Code\]](https://github.com/tmllab/2025_ICLR_IES)
 
 - **Early Stopping Without Validation Data in Weakly Supervised Learning.**
 
@@ -46,7 +46,7 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
 
-   Previously appeared at [ICLR](https://iclr.cc/Conferences/2024) 2024. [\[Paper\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[Code\]](https://github.com/tmllab/2024_ICLR_LabelWave)
+   Previously appeared at International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[Paper\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[Code\]](https://github.com/tmllab/2024_ICLR_LabelWave)
   
 - **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
   
