@@ -38,7 +38,7 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
 
-  Conference version: International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025 (<span style="color: rgb(51,130,90)">Spotlight</span>, Top 5%). 
+  Conference version: International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025 (<span style="color: rgb(51,130,90)">Spotlight</span>). 
 
 - **Early Stopping Without Validation Data in Weakly Supervised Learning.** [\[Paper\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[Code\]](https://github.com/tmllab/2024_ICLR_LabelWave)
 
