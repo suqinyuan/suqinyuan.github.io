@@ -26,39 +26,39 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
 
 ## Selected Publications
 
-- **Mitigating Mismatch within Reference-based Preference Optimization.**
+- **Mitigating Mismatch within Reference-based Preference Optimization.** [\[Paper\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[Code\]](https://github.com/tmllab/2026_ICLR_HyPO)
 
   **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, Tongliang Liu.
 
-   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026. [\[Paper\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[Code\]](https://github.com/tmllab/2026_ICLR_HyPO)
+   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026.
 
-- **Instance-dependent Early Stopping for Adaptive Data Pruning.**
+- **Instance-dependent Early Stopping for Adaptive Data Pruning.** [\[Paper\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[Code\]](https://github.com/tmllab/2025_ICLR_IES)
   
   **Suqin Yuan**, Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
 
-  Previously appeared at International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025 (<span style="color: rgb(51,130,90)">Spotlight</span>, Top 5%). [\[Paper\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[Code\]](https://github.com/tmllab/2025_ICLR_IES)
+  Previously appeared at International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025 (<span style="color: rgb(51,130,90)">Spotlight</span>, Top 5%). 
 
-- **Early Stopping Without Validation Data in Weakly Supervised Learning.**
+- **Early Stopping Without Validation Data in Weakly Supervised Learning.** [\[Paper\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[Code\]](https://github.com/tmllab/2024_ICLR_LabelWave)
 
   **Suqin Yuan**, Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
 
-   Previously appeared at International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[Paper\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[Code\]](https://github.com/tmllab/2024_ICLR_LabelWave)
+   Previously appeared at International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. 
   
-- **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.**
+- **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.** [\[Paper\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[Code\]](https://github.com/tmllab/2025_NeurIPS_MEE)
   
   **Suqin Yuan**, Lei Feng, Bo Han, Tongliang Liu.
 
-  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[Paper\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[Code\]](https://github.com/tmllab/2025_NeurIPS_MEE)
+  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025.
   
-- **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
+- **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.** [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/tmllab/2023_ICCV_LateStopping)
 
   <small><b>Suqin Yuan</b>, Lei Feng, Tongliang Liu.</small>
 
-  International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/tmllab/2023_ICCV_LateStopping)
+  International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023.
 
 
 
