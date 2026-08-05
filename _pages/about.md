@@ -26,39 +26,39 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
 
 ## Selected Publications
 
-- **Mitigating Mismatch within Reference-based Preference Optimization.** [\[Paper\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[Code\]](https://github.com/tmllab/2026_ICLR_HyPO)
+- **Mitigating Mismatch within Reference-based Preference Optimization.** 
 
   **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, Tongliang Liu.
 
-   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026.
+   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026. [\[Paper\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[Code\]](https://github.com/tmllab/2026_ICLR_HyPO)
 
-- **Instance-dependent Early Stopping for Adaptive Data Pruning.** [\[Paper\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[Code\]](https://github.com/tmllab/2025_ICLR_IES)
+- **Instance-dependent Early Stopping for Adaptive Data Pruning.** 
   
   **Suqin Yuan**, Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
 
-  Conference version: International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. (<span style="color: rgb(51,130,90)">Spotlight</span>)
+  Conference version: International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. (<span style="color: rgb(51,130,90)">Spotlight</span>) [\[Paper\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[Code\]](https://github.com/tmllab/2025_ICLR_IES)
 
-- **Early Stopping Without Validation Data in Weakly Supervised Learning.** [\[Paper\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[Code\]](https://github.com/tmllab/2024_ICLR_LabelWave)
-
+- **Early Stopping Without Validation Data in Weakly Supervised Learning.** 
   **Suqin Yuan**, Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
 
-   Conference version: International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. 
+  Conference version: International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[Paper\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[Code\]](https://github.com/tmllab/2024_ICLR_LabelWave)
   
-- **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.** [\[Paper\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[Code\]](https://github.com/tmllab/2025_NeurIPS_MEE)
+- **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.** 
   
   **Suqin Yuan**, Lei Feng, Bo Han, Tongliang Liu.
 
-  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025.
+  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[Paper\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[Code\]](https://github.com/tmllab/2025_NeurIPS_MEE)
   
-- **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.** [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/tmllab/2023_ICCV_LateStopping)
-
+- **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
+- 
   <small><b>Suqin Yuan</b>, Lei Feng, Tongliang Liu.</small>
 
-  International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023.
+  International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/tmllab/2023_ICCV_LateStopping)
+
 
 
 
