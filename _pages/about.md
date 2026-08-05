@@ -40,7 +40,8 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
 
   Conference version: International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. (<span style="color: rgb(51,130,90)">Spotlight</span>) [\[Paper\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[Code\]](https://github.com/tmllab/2025_ICLR_IES)
 
-- **Early Stopping Without Validation Data in Weakly Supervised Learning.** 
+- **Early Stopping Without Validation Data in Weakly Supervised Learning.**
+- 
   **Suqin Yuan**, Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
 
   IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
