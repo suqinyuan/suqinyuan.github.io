@@ -22,9 +22,15 @@ redirect_from:
 
 I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au), advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I study overfitting in machine learning and work on LLM pre-training and post-training under imperfect supervision.
 
-I am currently a student visitor at the [Torr Vision Group](https://torrvision.com/) at the University of Oxford, where I work on human-like LLMs and overfitting in pre-training. In late 2025, I visited the [AI-for-X Centre](https://www.ntu.edu.sg/ai-x) at Nanyang Technological University, where I worked on overfitting in RLVR. Earlier in 2025, I was a research officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar) in Singapore, where I worked on overfitting in RLHF. I have long worked in close collaboration wit Prof. [Lei Feng](https://lfeng1995.github.io). **I am actively exploring postdoctoral research opportunities.**
+I am currently a student visitor at the [Torr Vision Group](https://torrvision.com/) at the University of Oxford, where I work on human-like LLMs and overfitting in pre-training. In late 2025, I visited the [AI-for-X Centre](https://www.ntu.edu.sg/ai-x) at Nanyang Technological University, where I worked on overfitting in RLVR. Earlier in 2025, I was a research officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar) in Singapore, where I worked on overfitting in RLHF. I have long worked in close collaboration with Prof. [Lei Feng](https://lfeng1995.github.io). **I am actively exploring postdoctoral research opportunities.**
 
-## Selected Publications
+## Recent Work
+
+- **Understanding Diversity Collapse in RLVR via the Lens of Overtraining.**
+
+  **Suqin Yuan**, Jinkun Chen, Jiyang Zheng, Muyang Li, Lei Feng, Dadong Wang, Tao Xiang, Tongliang Liu, Bo An.
+
+  arXiv preprint, 2026. [\[Paper\]](https://arxiv.org/pdf/2606.15455)
 
 - **Mitigating Mismatch within Reference-based Preference Optimization.** 
 
@@ -56,12 +62,12 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
   
 - **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
   
-  <small><b>Suqin Yuan</b>, Lei Feng, Tongliang Liu.</small>
+   **Suqin Yuan**, Lei Feng, Tongliang Liu.
 
   International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/tmllab/2023_ICCV_LateStopping)
 
 
-## Educations
+## Education
 - *2022 - 2026*, Ph.D., School of Computer Science, The University of Sydney. 
 - *2018 - 2022*, B.Eng., School of Computer Science, Chongqing University.
 
