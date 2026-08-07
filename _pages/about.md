@@ -42,7 +42,7 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
   
   **Suqin Yuan**, Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
 
-  IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
+  IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)). ([TPAMI](https://www.computer.org/csdl/journal/tp)). [\[Paper\]](https://ieeexplore.ieee.org/document/11517544)
 
   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. (<span style="color: rgb(51,130,90)">Spotlight</span>) [\[Paper\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[Code\]](https://github.com/tmllab/2025_ICLR_IES)
 
@@ -50,7 +50,7 @@ I am currently a student visitor at the [Torr Vision Group](https://torrvision.c
   
   **Suqin Yuan**, Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
 
-  IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)).
+  IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)). [\[Paper\]](https://ieeexplore.ieee.org/document/11604166)
 
   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[Paper\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[Code\]](https://github.com/tmllab/2024_ICLR_LabelWave)
   
