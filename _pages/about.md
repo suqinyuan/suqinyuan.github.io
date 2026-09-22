@@ -26,6 +26,12 @@ In middle 2026, I visited the [Torr Vision Group](https://torrvision.com/) at th
 
 ## Recent Work
 
+- **Are Human-Aligned LLMs Models of Humans? A Turing-Test Gap in Preference Alignment.**
+
+  **Suqin Yuan**, Runqi Lin, Muyang Li, Guanze Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu.
+
+  arXiv preprint, 2026. [\[Paper\]](http://arxiv.org/abs/2609.23640)
+
 - **Understanding Diversity Collapse in RLVR via the Lens of Overtraining.**
 
   **Suqin Yuan**, Jinkun Chen, Jiyang Zheng, Muyang Li, Lei Feng, Dadong Wang, Tao Xiang, Tongliang Liu, Bo An.
