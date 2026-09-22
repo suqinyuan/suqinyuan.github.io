@@ -28,7 +28,7 @@ In middle 2026, I visited the [Torr Vision Group](https://torrvision.com/) at th
 
 - **Are Human-Aligned LLMs Models of Humans? A Turing-Test Gap in Preference Alignment.**
 
-  **Suqin Yuan**, Runqi Lin, Muyang Li, Guanze Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu.
+  **Suqin Yuan**, Runqi Lin, Muyang Li, Guanzhe Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu.
 
   arXiv preprint, 2026. [\[Paper\]](http://arxiv.org/abs/2609.23640)
 
