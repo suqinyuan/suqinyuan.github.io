@@ -26,17 +26,23 @@ In middle 2026, I visited the [Torr Vision Group](https://torrvision.com/) at th
 
 ## Recent Work
 
+- **Decoupling Token Roles in Autoregressive Pretraining.**
+
+  **Suqin Yuan**, Runqi Lin, Kevin Qinghong Lin, Junchi Yu, Lei Feng, Chris Russell, Tongliang Liu.
+
+  arXiv preprint:2609.33405. [\[Paper\]](https://arxiv.org/pdf/2609.33405)
+
 - **Are Human-Aligned LLMs Models of Humans? A Turing-Test Gap in Preference Alignment.**
 
   **Suqin Yuan**, Runqi Lin, Muyang Li, Guanzhe Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu.
 
-  arXiv preprint, 2026. [\[Paper\]](http://arxiv.org/abs/2609.23640)
+  arXiv preprint:2609.23640. [\[Paper\]](http://arxiv.org/abs/2609.23640)
 
 - **Understanding Diversity Collapse in RLVR via the Lens of Overtraining.**
 
   **Suqin Yuan**, Jinkun Chen, Jiyang Zheng, Muyang Li, Lei Feng, Dadong Wang, Tao Xiang, Tongliang Liu, Bo An.
 
-  arXiv preprint, 2026. [\[Paper\]](https://arxiv.org/pdf/2606.15455)
+  arXiv preprint:2606.15455. [\[Paper\]](https://arxiv.org/pdf/2606.15455)
 
 - **Mitigating Mismatch within Reference-based Preference Optimization.** 
 
