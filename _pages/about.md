@@ -44,6 +44,9 @@ In middle 2026, I visited the [Torr Vision Group](https://torrvision.com/) at th
 
   arXiv preprint:2606.15455. [\[Paper\]](https://arxiv.org/pdf/2606.15455)
 
+
+## Publications
+
 - **Mitigating Mismatch within Reference-based Preference Optimization.** 
 
   **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, Tongliang Liu.
