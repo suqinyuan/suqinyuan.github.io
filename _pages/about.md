@@ -20,7 +20,7 @@ redirect_from:
 <br>
 ## About me
 
-I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au), advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I study overfitting in machine learning and work on LLM pre-training and post-training under imperfect supervision.
+I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au), advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I study overfitting in machine learning and work on LLM pre-training and post-training under imperfect supervision. I have been recognized as an outstanding reviewer at ICML (2025, 2026), NeurIPS (2025), and CVPR (2026).
 
 In middle 2026, I visited the [Torr Vision Group](https://torrvision.com/) at the University of Oxford, where I work on human-like LLMs and overfitting in pre-training. In late 2025, I visited the [AI-for-X Centre](https://www.ntu.edu.sg/ai-x) at Nanyang Technological University, where I worked on overfitting in RLVR. Earlier in 2025, I was a research officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar) in Singapore, where I worked on overfitting in RLHF. I have long worked in close collaboration with Prof. [Lei Feng](https://lfeng1995.github.io).
 
@@ -87,10 +87,7 @@ In middle 2026, I visited the [Torr Vision Group](https://torrvision.com/) at th
 - *2018 - 2022*, B.Eng., School of Computer Science, Chongqing University.
 
 ## Honors and Awards
-- Gold Reviewer, International Conference on Machine Learning, *2026* 
 - USYD Faculty of Engineering Career Advancement Award, *2025*
-- Top Reviewer Award, Annual Conference on Neural Information Processing Systems, *2025* 
-- Top Reviewer Award, International Conference on Machine Learning, 2% in reviewers, *2025* 
 - 12th China Youth Science and Technology Innovation Award, 100 recipients biennially, *2020* 
 - 26th China High School Biology Olympiad, First Prize, ranked 12th, *2017* 
 
