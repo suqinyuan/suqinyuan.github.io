@@ -83,22 +83,19 @@ I received my PhD from the [School of Computer Science](https://www.sydney.edu.a
 
 ## Education
 
-- **The University of Sydney**, Australia *2022 – 2026*   
+- The University of Sydney, *2022 – 2026*   
   Ph.D., School of Computer Science · Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io).  
 
-- **Chongqing University**, China *2018 – 2022*  
+- Chongqing University, *2018 – 2022*  
   B.Eng., School of Computer Science · Advisor: Prof. [Lei Feng](https://lfeng1995.github.io).
 
 ## Research Experience
 
-- **University of Oxford**, United Kingdom · *Mar. – Sep. 2026* 
-  Student Visitor, [Torr Vision Group](https://torrvision.com/)
+- University of Oxford, Student Visitor, [Torr Vision Group](https://torrvision.com/), *Mar. – Sep. 2026*
 
-- **Nanyang Technological University**, Singapore · *Dec. 2025 – Feb. 2026* 
-  Visiting Student, [AI-for-X Centre](https://www.ntu.edu.sg/ai-x)
+- Nanyang Technological University, Visiting Student, [AI-for-X Centre](https://www.ntu.edu.sg/ai-x), *Dec. 2025 – Feb. 2026* 
 
-- **Agency for Science, Technology and Research (A*STAR)**, Singapore · *Aug. – Dec. 2025*   
-  Research Officer, [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar)
+- Agency for Science, Technology and Research (A*STAR), Research Officer, [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar),  *Aug. – Dec. 2025*   
 
 ## Honors and Awards
 - USYD Faculty of Engineering Career Advancement Award, *2025*
