@@ -81,7 +81,7 @@ I received my PhD from the [School of Computer Science](https://www.sydney.edu.a
   International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/tmllab/2023_ICCV_LateStopping)
 
 
-## Education and
+## Education and Experience
 
 - The University of Sydney, *2022 – 2026*   
   Ph.D., School of Computer Science · Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io).  
