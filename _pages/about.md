@@ -20,7 +20,7 @@ redirect_from:
 <br>
 ## About me
 
-I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au), advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I study overfitting in machine learning and work on LLM pre-training and post-training under imperfect supervision. I have been recognized as an outstanding reviewer at ICML (2025, 2026), NeurIPS (2025), and CVPR (2026).
+I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au). I study overfitting in machine learning and work on LLM pre-training and post-training under imperfect supervision. I have been recognized as an outstanding reviewer at ICML (2025, 2026), NeurIPS (2025), and CVPR (2026).
 
 
 ## Recent Work
@@ -82,8 +82,15 @@ I received my PhD from the [School of Computer Science](https://www.sydney.edu.a
 
 
 ## Education
-- *2022 - 2026*, Ph.D., School of Computer Science, The University of Sydney. 
-- *2018 - 2022*, B.Eng., School of Computer Science, Chongqing University.
+
+- **The University of Sydney**, Australia  
+  Ph.D., School of Computer Science · *2022 – 2026*  
+  Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io).  
+  Thesis: *Robust and Efficient Training of Deep Neural Networks via Principled Stopping Strategies.*
+
+- **Chongqing University**, China  
+  B.Eng., School of Computer Science · *2018 – 2022*  
+  Undergraduate research advisor: Prof. [Lei Feng](https://lfeng1995.github.io), with whom I continue to collaborate closely.
 
 ## Research Experience
 
