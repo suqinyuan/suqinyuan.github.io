@@ -92,12 +92,15 @@ I received my PhD from the [School of Computer Science](https://www.sydney.edu.a
 ## Experience
 
 - University of Oxford, Mar. – Sep. 2026
+  
   Student Visitor · [Torr Vision Group](https://torrvision.com/)
 
-- Nanyang Technological University, Dec. 2025 – Feb. 2026  
+- Nanyang Technological University, Dec. 2025 – Feb. 2026
+  
   Visiting Student · [AI-for-X Centre](https://www.ntu.edu.sg/ai-x)
 
-- Agency for Science, Technology and Research (A*STAR), Aug. – Dec. 2025  
+- Agency for Science, Technology and Research (A*STAR), Aug. – Dec. 2025
+  
   Research Officer · [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar)
 
 ## Honors and Awards
