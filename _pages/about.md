@@ -83,30 +83,22 @@ I received my PhD from the [School of Computer Science](https://www.sydney.edu.a
 
 ## Education
 
-- **The University of Sydney**, Australia  
-  Ph.D., School of Computer Science · *2022 – 2026*  
-  Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io).  
-  Thesis: *Robust and Efficient Training of Deep Neural Networks via Principled Stopping Strategies.*
+- **The University of Sydney**, Australia *2022 – 2026*   
+  Ph.D., School of Computer Science · Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io).  
 
-- **Chongqing University**, China  
-  B.Eng., School of Computer Science · *2018 – 2022*  
-  Undergraduate research advisor: Prof. [Lei Feng](https://lfeng1995.github.io), with whom I continue to collaborate closely.
+- **Chongqing University**, China *2018 – 2022*  
+  B.Eng., School of Computer Science · Advisor: Prof. [Lei Feng](https://lfeng1995.github.io).
 
 ## Research Experience
 
-- **University of Oxford**, United Kingdom  
-  Student Visitor, [Torr Vision Group](https://torrvision.com/) · *Mar. – Sep. 2026*  
-  Research on human-like LLMs and overfitting in LLM pre-training.
+- **University of Oxford**, United Kingdom · *Mar. – Sep. 2026* 
+  Student Visitor, [Torr Vision Group](https://torrvision.com/)
 
-- **Nanyang Technological University**, Singapore  
-  Visiting Student, [AI-for-X Centre](https://www.ntu.edu.sg/ai-x) · *Dec. 2025 – Feb. 2026*  
-  Research on overfitting in reinforcement learning with verifiable rewards (RLVR).
+- **Nanyang Technological University**, Singapore · *Dec. 2025 – Feb. 2026* 
+  Visiting Student, [AI-for-X Centre](https://www.ntu.edu.sg/ai-x)
 
-- **Agency for Science, Technology and Research (A*STAR)**, Singapore  
-  Research Officer, [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar) · *Aug. – Dec. 2025*  
-  Research on overfitting in reinforcement learning from human feedback (RLHF).
-
-I have a longstanding research collaboration with Prof. [Lei Feng](https://lfeng1995.github.io).
+- **Agency for Science, Technology and Research (A*STAR)**, Singapore · *Aug. – Dec. 2025*   
+  Research Officer, [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar)
 
 ## Honors and Awards
 - USYD Faculty of Engineering Career Advancement Award, *2025*
