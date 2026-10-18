@@ -22,7 +22,6 @@ redirect_from:
 
 I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au), advised by Prof. [Tongliang Liu](https://tongliang-liu.github.io). I study overfitting in machine learning and work on LLM pre-training and post-training under imperfect supervision. I have been recognized as an outstanding reviewer at ICML (2025, 2026), NeurIPS (2025), and CVPR (2026).
 
-In middle 2026, I visited the [Torr Vision Group](https://torrvision.com/) at the University of Oxford, where I work on human-like LLMs and overfitting in pre-training. In late 2025, I visited the [AI-for-X Centre](https://www.ntu.edu.sg/ai-x) at Nanyang Technological University, where I worked on overfitting in RLVR. Earlier in 2025, I was a research officer at [A*STAR CFAR](https://www.a-star.edu.sg/cfar) in Singapore, where I worked on overfitting in RLHF. I have long worked in close collaboration with Prof. [Lei Feng](https://lfeng1995.github.io).
 
 ## Recent Work
 
@@ -85,6 +84,22 @@ In middle 2026, I visited the [Torr Vision Group](https://torrvision.com/) at th
 ## Education
 - *2022 - 2026*, Ph.D., School of Computer Science, The University of Sydney. 
 - *2018 - 2022*, B.Eng., School of Computer Science, Chongqing University.
+
+## Research Experience
+
+- **University of Oxford**, United Kingdom  
+  Student Visitor, [Torr Vision Group](https://torrvision.com/) · *Mar. – Sep. 2026*  
+  Research on human-like LLMs and overfitting in LLM pre-training.
+
+- **Nanyang Technological University**, Singapore  
+  Visiting Student, [AI-for-X Centre](https://www.ntu.edu.sg/ai-x) · *Dec. 2025 – Feb. 2026*  
+  Research on overfitting in reinforcement learning with verifiable rewards (RLVR).
+
+- **Agency for Science, Technology and Research (A*STAR)**, Singapore  
+  Research Officer, [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar) · *Aug. – Dec. 2025*  
+  Research on overfitting in reinforcement learning from human feedback (RLHF).
+
+I have a longstanding research collaboration with Prof. [Lei Feng](https://lfeng1995.github.io).
 
 ## Honors and Awards
 - USYD Faculty of Engineering Career Advancement Award, *2025*
