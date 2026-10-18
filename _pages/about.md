@@ -84,10 +84,10 @@ I received my PhD from the [School of Computer Science](https://www.sydney.edu.a
 ## Education and Experience
 
 - The University of Sydney, *2022 – 2026*   
-  Ph.D., School of Computer Science, Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io).  
+  Ph.D., School of Computer Science, Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io)
 
 - Chongqing University, *2018 – 2022*  
-  B.Eng., School of Computer Science, Advisor: Prof. [Lei Feng](https://lfeng1995.github.io).
+  B.Eng., School of Computer Science, Advisor: Prof. [Lei Feng](https://lfeng1995.github.io)
 
 - University of Oxford, Mar. – Sep. 2026<br>
   Student Visitor, [Torr Vision Group](https://torrvision.com/)
