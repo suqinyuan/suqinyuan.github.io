@@ -89,13 +89,16 @@ I received my PhD from the [School of Computer Science](https://www.sydney.edu.a
 - Chongqing University, *2018 – 2022*  
   B.Eng., School of Computer Science · Advisor: Prof. [Lei Feng](https://lfeng1995.github.io).
 
-## Research Experience
+## Experience
 
-- University of Oxford, Student Visitor, [Torr Vision Group](https://torrvision.com/), *Mar. – Sep. 2026*
+- University of Oxford, Mar. – Sep. 2026
+  Student Visitor · [Torr Vision Group](https://torrvision.com/)
 
-- Nanyang Technological University, Visiting Student, [AI-for-X Centre](https://www.ntu.edu.sg/ai-x), *Dec. 2025 – Feb. 2026* 
+- Nanyang Technological University, Dec. 2025 – Feb. 2026  
+  Visiting Student · [AI-for-X Centre](https://www.ntu.edu.sg/ai-x)
 
-- Agency for Science, Technology and Research (A*STAR), Research Officer, [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar),  *Aug. – Dec. 2025*   
+- Agency for Science, Technology and Research (A*STAR), Aug. – Dec. 2025  
+  Research Officer · [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar)
 
 ## Honors and Awards
 - USYD Faculty of Engineering Career Advancement Award, *2025*
