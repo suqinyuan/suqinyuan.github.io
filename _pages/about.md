@@ -20,7 +20,7 @@ redirect_from:
 <br>
 ## About me
 
-I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au). I study overfitting in machine learning and work on LLM pre-training and post-training under imperfect supervision. I was named an Outstanding Reviewer at ICML (2025, 2026), NeurIPS (2025), and CVPR (2026).
+I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au). I study overfitting in machine learning and work on LLM pre- and post-training under imperfect supervision. I was named an Outstanding Reviewer at ICML (2025, 2026), NeurIPS (2025), and CVPR (2026).
 
 
 ## Recent Work
@@ -84,10 +84,10 @@ I received my PhD from the [School of Computer Science](https://www.sydney.edu.a
 ## Education and Experience
 
 - **The University of Sydney**, *2022 – 2026*   
-  Ph.D., School of Computer Science, Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io)
+  Ph.D., Computer Science, Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io)
 
 - **Chongqing University**, *2018 – 2022*  
-  B.Eng., School of Computer Science, Advisor: Prof. [Lei Feng](https://lfeng1995.github.io)
+  B.Eng.,Computer Science, Advisor: Prof. [Lei Feng](https://lfeng1995.github.io)
 
 - **University of Oxford**, Mar. – Sep. 2026<br>
   Student Visitor, [Torr Vision Group](https://torrvision.com/)
