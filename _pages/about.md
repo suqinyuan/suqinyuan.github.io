@@ -20,7 +20,7 @@ redirect_from:
 <br>
 ## About me
 
-I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au). I study overfitting in machine learning and work on LLM pre- and post-training under imperfect supervision. I was named an Outstanding Reviewer at ICML, NeurIPS, and CVPR.
+I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au). I study overfitting in machine learning and work on LLM pre- and post-training under imperfect supervision. I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
 
 
 ## Recent Work
