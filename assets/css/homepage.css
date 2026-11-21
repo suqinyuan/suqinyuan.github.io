@@ -1,0 +1,236 @@
+/* Styles for the homepage layout, adapted from Jon Barron's academic website. */
+:root {
+  --link: #1772d0;
+  --link-hover: #aa5600;
+  --muted: #555;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: #fff;
+  color: #111;
+  font: 1rem/1.4 Lato, Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+.page {
+  width: 100%;
+  max-width: 51rem;
+  margin: 0 auto;
+  padding: .5rem;
+}
+
+.bio {
+  display: flex;
+  align-items: center;
+}
+
+.bio-text,
+.bio-photo {
+  padding: 2.5%;
+}
+
+.bio-text {
+  width: 63%;
+}
+
+.bio-photo {
+  width: 37%;
+}
+
+.bio-photo img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.bio-photo a,
+.bio-photo img,
+.paper-media a,
+.paper-media img {
+  display: block;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 1.25rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .15rem .45rem;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.contact-links span,
+.paper-links span {
+  color: var(--muted);
+}
+
+h2 {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+
+.research > h2 {
+  padding: 1rem;
+}
+
+.papers {
+  display: grid;
+  gap: .625rem;
+}
+
+.paper {
+  display: grid;
+  grid-template-columns: 12rem minmax(0, 1fr);
+  align-items: center;
+}
+
+.paper-media {
+  padding: 1rem;
+}
+
+.paper-media img {
+  width: 100%;
+  height: auto;
+  max-height: 10rem;
+  object-fit: contain;
+}
+
+.paper-info {
+  padding: .5rem;
+}
+
+.text-only {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.text-only .paper-info {
+  padding-left: 1rem;
+}
+
+h3,
+.authors {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.venue,
+.paper-links {
+  margin-top: .18rem;
+}
+
+.paper-links {
+  display: inline-block;
+  margin-left: .45em;
+}
+
+.venue-note {
+  color: #256a48;
+}
+
+.summary {
+  margin: .55rem 0 0;
+}
+
+.background {
+  padding: 1rem;
+}
+
+.background h2:not(:first-child) {
+  margin-top: 1.75rem;
+}
+
+.background ul {
+  margin: .7rem 0 0;
+  padding-left: 1.3rem;
+}
+
+.background li + li {
+  margin-top: .45rem;
+}
+
+.background li p {
+  margin: 0;
+}
+
+footer {
+  padding: 1.1rem 1rem;
+  font-size: .85rem;
+  color: var(--muted);
+  text-align: right;
+}
+
+@media (max-width: 40rem) {
+  .page {
+    padding: 0;
+  }
+
+  .bio {
+    flex-direction: column-reverse;
+  }
+
+  .bio-photo {
+    width: 9.25rem;
+    padding: 1.25rem 0 0;
+  }
+
+  .bio-text {
+    width: 100%;
+    padding: .5rem 1rem;
+  }
+
+  h1 {
+    padding-top: .5rem;
+    font-size: 1.75rem;
+  }
+
+  .paper:not(.text-only) {
+    grid-template-columns: clamp(5.5rem, 30vw, 7.75rem) minmax(0, 1fr);
+  }
+
+  .paper-media {
+    padding: .75rem .5rem .75rem .75rem;
+  }
+
+  .paper-info {
+    padding: .625rem .75rem .625rem .375rem;
+    overflow-wrap: anywhere;
+  }
+}
