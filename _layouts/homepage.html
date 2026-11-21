@@ -35,7 +35,7 @@
       <header class="bio" id="about-me">
         <div class="bio-photo">
           <a href="{{ site.author.avatar | relative_url }}">
-            <img src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="1106" height="1232">
+            <img src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="{{ site.author.avatar_width }}" height="{{ site.author.avatar_height }}">
           </a>
         </div>
         <div class="bio-text">
