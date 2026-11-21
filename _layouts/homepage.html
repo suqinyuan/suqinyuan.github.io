@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% assign homepage_origin = site.url | default: "https://suqinyuan.github.io" %}
+    {% assign homepage_url = "/" | relative_url | prepend: homepage_origin %}
+    {% assign bio_description = page.bio | markdownify | strip_html | strip_newlines | strip %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title | escape }} - Homepage</title>
+    <meta name="description" content="{{ bio_description | escape }}">
+    <meta name="keywords" content="suqinyuan,suqin yuan,yuan suqin,yuansuqin,袁塑钦,suqin">
+    <meta name="author" content="{{ site.author.name | escape }}">
+    <link rel="canonical" href="{{ homepage_url | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en">
+    <meta property="og:site_name" content="{{ site.title | escape }}">
+    <meta property="og:title" content="{{ site.title | escape }}">
+    <meta property="og:description" content="{{ bio_description | escape }}">
+    <meta property="og:url" content="{{ homepage_url | escape }}">
+    <meta property="og:image" content="{{ site.author.avatar | relative_url | prepend: homepage_origin | escape }}">
+    {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification | escape }}">{% endif %}
+    {% if site.bing_site_verification %}<meta name="msvalidate.01" content="{{ site.bing_site_verification | escape }}">{% endif %}
+    {% if site.baidu_site_verification %}<meta name="baidu-site-verification" content="{{ site.baidu_site_verification | escape }}">{% endif %}
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
+    <link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&amp;display=swap">
+    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}">
+    {% if site.google_analytics_id %}{% include analytics.html %}{% endif %}
+  </head>
+  <body>
+    <main class="page">
+      <header class="bio" id="about-me">
+        <div class="bio-photo">
+          <a href="{{ site.author.avatar | relative_url }}">
+            <img src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="{{ site.author.avatar_width }}" height="{{ site.author.avatar_height }}">
+          </a>
+        </div>
+        <div class="bio-text">
+          <h1>{{ site.author.name | escape }}</h1>
+          {% assign bio = page.bio | strip %}
+          {% if page.research_questions %}
+          {% assign bio = bio | append: " I am interested in:" %}
+          {% endif %}
+          {{ bio | markdownify }}
+          {% if page.research_questions %}
+          <ol id="research-questions" aria-label="Research interests">
+            {% for question in page.research_questions %}
+            <li>{{ question | escape }}</li>
+            {% endfor %}
+          </ol>
+          {% endif %}
+          {% assign email = site.author.email | default: site.author.bio %}
+          <nav class="contact-links" aria-label="Contact and profiles">
+            <a href="mailto:{{ email | escape }}">{{ email | escape }}</a>
+            <span aria-hidden="true">/</span>
+            <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
+          </nav>
+        </div>
+      </header>
+
+      {% for section in page.sections %}
+      <section class="research" aria-labelledby="{{ section.id | escape }}">
+        <h2 id="{{ section.id | escape }}">{{ section.title | escape }}</h2>
+        <div class="papers">
+          {% for paper in section.papers %}
+          {% assign first_venue = paper.venues | first %}
+          {% assign primary_link = first_venue.links | first %}
+          {% assign title_href = paper.title_url | default: primary_link.url %}
+          <article class="paper{% unless paper.image %} text-only{% endunless %}">
+            {% if paper.image %}
+            <div class="paper-media{% if paper.compact_image %} compact-image{% endif %}">
+              <a href="{{ title_href | escape }}" tabindex="-1">
+                <img src="{{ paper.image | prepend: '/images/research/' | relative_url }}" alt="{{ paper.alt | escape }}" loading="lazy" decoding="async">
+              </a>
+            </div>
+            {% endif %}
+            <div class="paper-info">
+              <h3><a href="{{ title_href | escape }}">{{ paper.title | escape }}</a></h3>
+              <p class="authors"><strong>{{ site.author.name | escape }}</strong>{% if paper.other_authors %}, {{ paper.other_authors | escape }}{% endif %}</p>
+              {% for venue in paper.venues %}
+              <div class="venue{% if venue.prefix %} journal{% endif %}">
+                <em>{% if venue.prefix %}{{ venue.prefix | escape }} {% endif %}{% if venue.url %}<a href="{{ venue.url | escape }}">{{ venue.label | escape }}</a>{% else %}{{ venue.label | escape }}{% endif %}</em>{% if venue.year %}, {{ venue.year | escape }}{% endif %}{% if venue.note %} <strong class="venue-note">({{ venue.note | escape }})</strong>{% endif %}
+                {% if venue.links %}<span class="paper-links">{% for link in venue.links %}{% unless forloop.first %}<span aria-hidden="true"> / </span>{% endunless %}<a href="{{ link.url | escape }}">{{ link.label | escape }}</a>{% endfor %}</span>{% endif %}
+              </div>
+              {% endfor %}
+              {% if paper.summary %}<p class="summary">{{ paper.summary | escape }}</p>{% endif %}
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </section>
+      {% endfor %}
+
+      <div class="background" id="education-and-experience">
+        {% for group in page.background %}
+        <section class="cv-group" aria-label="{{ group.title | escape }}">
+          <h2>{{ group.title | escape }}</h2>
+          <dl class="cv-list">
+            {% for entry in group.entries %}
+            <div class="cv-entry">
+              <dt>{{ entry.institution | escape }}</dt>
+              <dd class="cv-dates">{{ entry.dates | escape }}</dd>
+              <dd class="cv-role">{{ entry.role | escape }} <span aria-hidden="true">·</span> <a href="{{ entry.url | escape }}">{{ entry.detail | escape }}</a></dd>
+            </div>
+            {% endfor %}
+          </dl>
+        </section>
+        {% endfor %}
+        {{ content }}
+      </div>
+    </main>
+  </body>
+</html>

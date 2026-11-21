@@ -1,105 +1,180 @@
 ---
+layout: homepage
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
+bio: |-
+  I am a postdoctoral research associate at the [University of Sydney](https://www.sydney.edu.au), where I also did my PhD with [Tongliang Liu](https://tongliang-liu.github.io). I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
+
+  I study overfitting in machine learning. My current work focuses on LLM pre- and post-training.
+
+research_questions:
+  - AI that acts as a person rather than an assistant
+  - When we run out of high-quality pretraining data
+  - How a strong model can teach a weaker one
+
+sections:
+  - id: recent-work
+    title: Recent Work
+    papers:
+      - title: Decoupling Token Roles in Autoregressive Pretraining
+        other_authors: Runqi Lin, Kevin Qinghong Lin, Junchi Yu, Lei Feng, Chris Russell, Tongliang Liu
+        image: tokens.png
+        alt: Figure 3. GPT-2 validation loss during training with random versus predictable replacements under clean, standard, target-only and context-only conditions.
+        summary: Making a corrupted token easier to predict makes it less harmful as a training target but more harmful as context for the next tokens.
+        venues:
+          - label: "arXiv:2609.33405"
+            year: 2026
+            links:
+              - label: Paper
+                url: https://arxiv.org/pdf/2609.33405
+
+      - title: Are Human-Aligned LLMs Models of Humans? A Turing-Test Gap in Preference Alignment
+        other_authors: Runqi Lin, Muyang Li, Guanzhe Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu
+        image: human.png
+        alt: Comparison of human response frequencies with the frequencies obtained after weighting responses by preference.
+        summary: Optimizing for what people prefer can systematically make model responses less human-like.
+        venues:
+          - label: "arXiv:2609.23640"
+            year: 2026
+            links:
+              - label: Paper
+                url: https://arxiv.org/abs/2609.23640
+
+      - title: Understanding Diversity Collapse in RLVR via the Lens of Overtraining
+        other_authors: Jinkun Chen, Jiyang Zheng, Muyang Li, Lei Feng, Dadong Wang, Tao Xiang, Tongliang Liu, Bo An
+        image: rlvr.png
+        alt: Training updates allocated to different problems alongside the model’s Pass@256 score.
+        summary: Much of the diversity collapse observed in RLVR can be explained by overtraining.
+        venues:
+          - label: "arXiv:2606.15455"
+            year: 2026
+            links:
+              - label: Paper
+                url: https://arxiv.org/pdf/2606.15455
+
+  - id: publications
+    title: Publications
+    papers:
+      - title: Mitigating Mismatch within Reference-based Preference Optimization
+        other_authors: Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, Tongliang Liu
+        image: hypo.webp
+        compact_image: true
+        alt: Gradient weights for HyPO across policy and reference preference margins.
+        summary: DPO’s reference model can weaken learning when it favors the rejected response. We remove its contribution only for those preference pairs.
+        venues:
+          - label: ICLR
+            url: https://iclr.cc/Conferences/2026
+            year: 2026
+            links:
+              - label: Paper
+                url: https://openreview.net/pdf?id=k79Un1LSXy
+              - label: Code
+                url: https://github.com/tmllab/2026_ICLR_HyPO
+
+      - title: Instance-dependent Early Stopping
+        other_authors: Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
+        image: ies.webp
+        alt: Accuracy and fraction of training examples used on CIFAR-10 and ImageNet-1k.
+        summary: If overfitting can be benign, we should decide when to stop training on each example individually.
+        venues:
+          - label: ICLR
+            url: https://iclr.cc/Conferences/2025
+            year: 2025
+            note: Spotlight
+            links:
+              - label: Paper
+                url: https://openreview.net/pdf?id=P42DbV2nuV
+              - label: Code
+                url: https://github.com/tmllab/2025_ICLR_IES
+          - label: IEEE Transactions on Pattern Analysis and Machine Intelligence
+            prefix: also at
+            url: https://ieeexplore.ieee.org/document/11517544
+
+      - title: Early Stopping Against Label Noise Without Validation Data
+        other_authors: Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
+        image: labelwave.webp
+        alt: Changes in predicted labels during training plotted alongside test error.
+        summary: We can track how well a model generalizes simply by monitoring how its predictions change on the training set.
+        venues:
+          - label: ICLR
+            url: https://iclr.cc/Conferences/2024
+            year: 2024
+            links:
+              - label: Paper
+                url: https://openreview.net/pdf?id=CMzF2aOfqp
+              - label: Code
+                url: https://github.com/tmllab/2024_ICLR_LabelWave
+          - label: IEEE Transactions on Pattern Analysis and Machine Intelligence
+            prefix: also at
+            url: https://ieeexplore.ieee.org/document/11604166
+
+      - title: Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples
+        other_authors: Lei Feng, Bo Han, Tongliang Liu
+        image: earlycutting.webp
+        alt: Six CIFAR-10 images with incorrect labels that the model learns early in training.
+        summary: Some mislabeled examples are easier for a model to learn than correctly labeled ones.
+        venues:
+          - label: NeurIPS
+            url: https://neurips.cc/Conferences/2025
+            year: 2025
+            links:
+              - label: Paper
+                url: https://openreview.net/pdf?id=OfIUAlo2hJ
+              - label: Code
+                url: https://github.com/tmllab/2025_NeurIPS_MEE
+
+      - title: "Late Stopping: Avoiding Confidently Learning from Mislabeled Examples"
+        other_authors: Lei Feng, Tongliang Liu
+        image: latestopping.webp
+        compact_image: true
+        alt: Distributions showing when a network first learns clean and mislabeled CIFAR-10 examples.
+        summary: A larger initial set of examples can start a positive feedback loop for iterative sample selection.
+        venues:
+          - label: ICCV
+            url: https://iccv2023.thecvf.com
+            year: 2023
+            links:
+              - label: Paper
+                url: https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf
+              - label: Code
+                url: https://github.com/tmllab/2023_ICCV_LateStopping
+
+background:
+  - title: Education
+    entries:
+      - institution: The University of Sydney
+        dates: 2022–2026
+        role: PhD in Computer Science
+        detail: "Advisor: Tongliang Liu"
+        url: https://tongliang-liu.github.io
+      - institution: Chongqing University
+        dates: 2018–2022
+        role: BEng in Computer Science
+        detail: "Advisor: Prof. Lei Feng"
+        url: https://lfeng1995.github.io
+  - title: Research Experience
+    entries:
+      - institution: University of Oxford
+        dates: Mar–Sep 2026
+        role: Student Visitor
+        detail: Torr Vision Group
+        url: https://torrvision.com/
+      - institution: Nanyang Technological University
+        dates: Dec 2025 – Feb 2026
+        role: Visiting Student
+        detail: AI-for-X Centre
+        url: https://www.ntu.edu.sg/ai-x
+      - institution: Agency for Science, Technology and Research (A*STAR)
+        dates: Aug–Dec 2025
+        role: Research Officer
+        detail: Centre for Frontier AI Research
+        url: https://www.a-star.edu.sg/cfar
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-<br>
-## About me
-
-I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [The University of Sydney](https://www.sydney.edu.au). I study overfitting in machine learning and work on LLM pre- and post-training under imperfect supervision. I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
-
-
-## Recent Work
-
-- **Decoupling Token Roles in Autoregressive Pretraining.**
-
-  **Suqin Yuan**, Runqi Lin, Kevin Qinghong Lin, Junchi Yu, Lei Feng, Chris Russell, Tongliang Liu.
-
-  arXiv preprint:2609.33405. [\[Paper\]](https://arxiv.org/pdf/2609.33405)
-
-- **Are Human-Aligned LLMs Models of Humans? A Turing-Test Gap in Preference Alignment.**
-
-  **Suqin Yuan**, Runqi Lin, Muyang Li, Guanzhe Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu.
-
-  arXiv preprint:2609.23640. [\[Paper\]](http://arxiv.org/abs/2609.23640)
-
-- **Understanding Diversity Collapse in RLVR via the Lens of Overtraining.**
-
-  **Suqin Yuan**, Jinkun Chen, Jiyang Zheng, Muyang Li, Lei Feng, Dadong Wang, Tao Xiang, Tongliang Liu, Bo An.
-
-  arXiv preprint:2606.15455. [\[Paper\]](https://arxiv.org/pdf/2606.15455)
-
-
-## Publications
-
-- **Mitigating Mismatch within Reference-based Preference Optimization.** 
-
-  **Suqin Yuan**, Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, Tongliang Liu.
-
-   International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2026)), 2026. [\[Paper\]](https://openreview.net/pdf?id=k79Un1LSXy) [\[Code\]](https://github.com/tmllab/2026_ICLR_HyPO)
-
-- **Instance-dependent Early Stopping for Adaptive Data Pruning.** 
-  
-  **Suqin Yuan**, Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
-
-  IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)). [\[Paper\]](https://ieeexplore.ieee.org/document/11517544)
-
-  International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)), 2025. (<span style="color: rgb(51,130,90)">Spotlight</span>) [\[Paper\]](https://openreview.net/pdf?id=P42DbV2nuV) [\[Code\]](https://github.com/tmllab/2025_ICLR_IES)
-
-- **Early Stopping Without Validation Data in Weakly Supervised Learning.**
-  
-  **Suqin Yuan**, Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu.
-
-  IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://www.computer.org/csdl/journal/tp)). [\[Paper\]](https://ieeexplore.ieee.org/document/11604166)
-
-  International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2024)), 2024. [\[Paper\]](https://openreview.net/pdf?id=CMzF2aOfqp) [\[Code\]](https://github.com/tmllab/2024_ICLR_LabelWave)
-  
-- **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples.** 
-  
-  **Suqin Yuan**, Lei Feng, Bo Han, Tongliang Liu.
-
-  Advances in Neural Information Processing Systems ([NeurIPS](https://neurips.cc/Conferences/2025)), 2025. [\[Paper\]](https://openreview.net/pdf?id=OfIUAlo2hJ) [\[Code\]](https://github.com/tmllab/2025_NeurIPS_MEE)
-  
-- **Late Stopping: Avoiding Confidently Learning from Mislabeled Examples.**
-  
-   **Suqin Yuan**, Lei Feng, Tongliang Liu.
-
-  International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com)), 2023. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/tmllab/2023_ICCV_LateStopping)
-
-
-## Education and Experience
-
-- **The University of Sydney**, *2022 – 2026*   
-  Ph.D., Computer Science, Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io)
-
-- **Chongqing University**, *2018 – 2022*  
-  B.Eng.,Computer Science, Advisor: Prof. [Lei Feng](https://lfeng1995.github.io)
-
-- **University of Oxford**, Mar. – Sep. 2026<br>
-  Student Visitor, [Torr Vision Group](https://torrvision.com/)
-
-- **Nanyang Technological University**, Dec. 2025 – Feb. 2026<br>
-  Visiting Student, [AI-for-X Centre](https://www.ntu.edu.sg/ai-x)
-
-- **Agency for Science, Technology and Research (A&#42;STAR)**, Aug. – Dec. 2025<br>
-  Research Officer, [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar)
-
 ## Honors and Awards
+
 - USYD Faculty of Engineering Career Advancement Award, *2025*
 - 12th China Youth Science and Technology Innovation Award, 100 recipients biennially, *2020* 
-- 26th China High School Biology Olympiad, First Prize, ranked 12th, *2017* 
-
+- 26th China High School Biology Olympiad, First Prize, ranked 12th, *2017*

@@ -1,0 +1,300 @@
+/* Styles for the homepage layout, adapted from Jon Barron's academic website. */
+:root {
+  --link: #1772d0;
+  --link-hover: #aa5600;
+  --muted: #555;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: #fff;
+  color: #111;
+  font: 1rem/1.4 Lato, Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+.page {
+  width: 100%;
+  max-width: 51rem;
+  margin: 0 auto;
+  padding: .5rem;
+}
+
+.bio {
+  display: flex;
+  align-items: center;
+}
+
+.bio-text,
+.bio-photo {
+  padding: 2.5%;
+}
+
+.bio-text {
+  flex: 1;
+}
+
+.bio-photo {
+  width: 32.349056%;
+}
+
+.bio-photo img {
+  width: 100%;
+  height: auto;
+}
+
+.bio-photo a,
+.bio-photo img,
+.paper-media a,
+.paper-media img {
+  display: block;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 1.25rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .15rem .45rem;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.contact-links span,
+.paper-links span {
+  color: var(--muted);
+}
+
+h2 {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+
+.research > h2 {
+  padding: 1rem;
+}
+
+.papers {
+  display: grid;
+  row-gap: .328125rem;
+}
+
+.paper {
+  --figure-scale: 1.45475;
+  display: grid;
+  grid-template-columns: calc(12rem * var(--figure-scale)) minmax(0, 1fr);
+  align-items: center;
+}
+
+.paper-media {
+  padding: .60375rem calc(1rem * var(--figure-scale));
+}
+
+.paper-media img {
+  width: 100%;
+  height: auto;
+  max-height: calc(10rem * var(--figure-scale));
+  object-fit: contain;
+}
+
+.paper-media.compact-image a {
+  width: 74.8%;
+  margin-inline: auto;
+}
+
+.paper-media.compact-image img {
+  max-height: calc(7.48rem * var(--figure-scale));
+}
+
+.paper-info {
+  padding: .2625rem .5rem;
+}
+
+.text-only {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.text-only .paper-info {
+  padding-left: 1rem;
+}
+
+h3,
+.authors {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.venue,
+.paper-links {
+  margin-top: .18rem;
+}
+
+.paper-links {
+  display: inline-block;
+  margin-left: .45em;
+}
+
+.venue-note {
+  color: #256a48;
+}
+
+.journal {
+  color: var(--muted);
+  font-size: .9375rem;
+}
+
+.summary {
+  margin: .55rem 0 0;
+}
+
+.background {
+  padding: 1rem;
+}
+
+.cv-group + .cv-group {
+  margin-top: 1.75rem;
+}
+
+.cv-list {
+  margin: .8rem 0 0;
+}
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 1.25rem;
+  align-items: baseline;
+}
+
+.cv-entry + .cv-entry {
+  margin-top: .85rem;
+}
+
+.cv-entry dt {
+  font-weight: 700;
+}
+
+.cv-entry dd {
+  margin: 0;
+}
+
+.cv-dates {
+  color: var(--muted);
+  font-size: .9rem;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.cv-role {
+  grid-column: 1 / -1;
+}
+
+.cv-role span {
+  margin: 0 .15em;
+  color: var(--muted);
+}
+
+.background h2:not(:first-child) {
+  margin-top: 1.75rem;
+}
+
+@media (max-width: 32rem) {
+  .cv-entry {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .cv-dates {
+    order: 1;
+    text-align: left;
+  }
+}
+
+.background ul {
+  margin: .7rem 0 0;
+  padding-left: 1.3rem;
+}
+
+.background li + li {
+  margin-top: .45rem;
+}
+
+.background li p {
+  margin: 0;
+}
+
+@media (max-width: 40rem) {
+  .page {
+    padding: 0;
+  }
+
+  .bio {
+    display: flow-root;
+    padding: 1.25rem 1rem .5rem;
+  }
+
+  .bio-photo {
+    float: left;
+    width: 7.9055865rem;
+    margin: 0 1rem .5rem 0;
+    padding: 0;
+  }
+
+  .bio-text {
+    padding: 0;
+  }
+
+  h1 {
+    padding-top: 0;
+    font-size: 1.75rem;
+    text-align: left;
+  }
+
+  .paper:not(.text-only) {
+    grid-template-columns: calc(clamp(5.5rem, 30vw, 7.75rem) * var(--figure-scale)) minmax(0, 1fr);
+  }
+
+  .paper-media {
+    padding: .4528125rem calc(.75rem * var(--figure-scale));
+    padding-right: calc(.5rem * var(--figure-scale));
+  }
+
+  .paper-info {
+    padding: .328125rem .75rem .328125rem .375rem;
+    overflow-wrap: anywhere;
+  }
+}
