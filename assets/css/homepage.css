@@ -113,7 +113,7 @@ h2 {
 }
 
 .paper {
-  --figure-scale: 1.3225;
+  --figure-scale: 1.45475;
   display: grid;
   grid-template-columns: calc(12rem * var(--figure-scale)) minmax(0, 1fr);
   align-items: center;
