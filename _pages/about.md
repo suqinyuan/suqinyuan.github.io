@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 bio: |-
-  I am a Postdoctoral Research Associate at the [University of Sydney](https://www.sydney.edu.au), where I also did my PhD with [Tongliang Liu](https://tongliang-liu.github.io). I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
+  I am a postdoctoral research associate at the [University of Sydney](https://www.sydney.edu.au), where I also did my PhD with [Tongliang Liu](https://tongliang-liu.github.io). I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
 
   I study overfitting in machine learning. My current work focuses on LLM pre- and post-training.
 
