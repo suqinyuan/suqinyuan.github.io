@@ -153,7 +153,7 @@ background:
       - institution: Chongqing University
         dates: 2018–2022
         role: BEng in Computer Science
-        detail: "Advisor: Prof. Lei Feng"
+        detail: "Advisor: Lei Feng"
         url: https://lfeng1995.github.io
   - title: Research Experience
     entries:
