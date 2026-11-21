@@ -22,7 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Suqin Yuan"
-  avatar           : "images/IMG_2739_low_small_new.jpeg"
+  avatar           : "images/suqin-yuan.jpg"
+  avatar_width     : 2149
+  avatar_height    : 2008
   bio              : suqinyuan.cs@gmail.com
   location         : 
   employer         :
