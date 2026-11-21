@@ -41,6 +41,16 @@
         <div class="bio-text">
           <h1>{{ site.author.name | escape }}</h1>
           {{ page.bio | markdownify }}
+          {% if page.research_questions %}
+          <section aria-labelledby="research-questions">
+            <h2 id="research-questions">Machine learning questions I’m thinking about</h2>
+            <ol>
+              {% for question in page.research_questions %}
+              <li>{{ question | escape }}</li>
+              {% endfor %}
+            </ol>
+          </section>
+          {% endif %}
           {% assign email = site.author.email | default: site.author.bio %}
           <nav class="contact-links" aria-label="Contact and profiles">
             <a href="mailto:{{ email | escape }}">{{ email | escape }}</a>
