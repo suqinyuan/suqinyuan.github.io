@@ -37,18 +37,15 @@
           <h1>{{ site.author.name | escape }}</h1>
           {{ page.bio | markdownify }}
           {% assign email = site.author.email | default: site.author.bio %}
-          {% assign github_user = site.repository | split: '/' | first %}
           <nav class="contact-links" aria-label="Contact and profiles">
             <a href="mailto:{{ email | escape }}">{{ email | escape }}</a>
             <span aria-hidden="true">/</span>
             <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
-            <span aria-hidden="true">/</span>
-            <a href="https://github.com/{{ github_user | escape }}">GitHub</a>
           </nav>
         </div>
         <div class="bio-photo">
           <a href="{{ site.author.avatar | relative_url }}">
-            <img src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="256" height="256">
+            <img src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="1106" height="1232">
           </a>
         </div>
       </header>
@@ -60,20 +57,21 @@
           {% for paper in section.papers %}
           {% assign first_venue = paper.venues | first %}
           {% assign primary_link = first_venue.links | first %}
+          {% assign title_href = paper.title_url | default: primary_link.url %}
           <article class="paper{% unless paper.image %} text-only{% endunless %}">
             {% if paper.image %}
             <div class="paper-media">
-              <a href="{{ primary_link.url | escape }}" tabindex="-1">
+              <a href="{{ title_href | escape }}" tabindex="-1">
                 <img src="{{ paper.image | prepend: '/images/research/' | relative_url }}" alt="{{ paper.alt | escape }}" loading="lazy" decoding="async">
               </a>
             </div>
             {% endif %}
             <div class="paper-info">
-              <h3><a href="{{ primary_link.url | escape }}">{{ paper.title | escape }}</a></h3>
+              <h3><a href="{{ title_href | escape }}">{{ paper.title | escape }}</a></h3>
               <p class="authors"><strong>{{ site.author.name | escape }}</strong>{% if paper.other_authors %}, {{ paper.other_authors | escape }}{% endif %}</p>
               {% for venue in paper.venues %}
-              <div class="venue">
-                <em>{% if venue.url %}<a href="{{ venue.url | escape }}">{{ venue.label | escape }}</a>{% else %}{{ venue.label | escape }}{% endif %}</em>{% if venue.year %}, {{ venue.year | escape }}{% endif %}{% if venue.note %} <strong class="venue-note">({{ venue.note | escape }})</strong>{% endif %}
+              <div class="venue{% if venue.prefix %} journal{% endif %}">
+                <em>{% if venue.prefix %}{{ venue.prefix | escape }} {% endif %}{% if venue.url %}<a href="{{ venue.url | escape }}">{{ venue.label | escape }}</a>{% else %}{{ venue.label | escape }}{% endif %}</em>{% if venue.year %}, {{ venue.year | escape }}{% endif %}{% if venue.note %} <strong class="venue-note">({{ venue.note | escape }})</strong>{% endif %}
                 <span class="paper-links">{% for link in venue.links %}{% unless forloop.first %}<span aria-hidden="true"> / </span>{% endunless %}<a href="{{ link.url | escape }}">{{ link.label | escape }}</a>{% endfor %}</span>
               </div>
               {% endfor %}
@@ -85,7 +83,23 @@
       </section>
       {% endfor %}
 
-      <div class="background">{{ content }}</div>
+      <div class="background" id="education-and-experience">
+        {% for group in page.background %}
+        <section class="cv-group" aria-label="{{ group.title | escape }}">
+          <h2>{{ group.title | escape }}</h2>
+          <dl class="cv-list">
+            {% for entry in group.entries %}
+            <div class="cv-entry">
+              <dt>{{ entry.institution | escape }}</dt>
+              <dd class="cv-dates">{{ entry.dates | escape }}</dd>
+              <dd class="cv-role">{{ entry.role | escape }} <span aria-hidden="true">·</span> <a href="{{ entry.url | escape }}">{{ entry.detail | escape }}</a></dd>
+            </div>
+            {% endfor %}
+          </dl>
+        </section>
+        {% endfor %}
+        {{ content }}
+      </div>
       <footer>Website template by <a href="https://github.com/jonbarron/jonbarron.github.io">Jon Barron</a>.</footer>
     </main>
   </body>
