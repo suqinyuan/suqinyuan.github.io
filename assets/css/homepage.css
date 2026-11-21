@@ -66,9 +66,6 @@ a:focus-visible {
 .bio-photo img {
   width: 100%;
   height: auto;
-  aspect-ratio: 1;
-  border-radius: 50%;
-  object-fit: cover;
 }
 
 .bio-photo a,
@@ -165,6 +162,11 @@ h3,
   color: #256a48;
 }
 
+.journal {
+  color: var(--muted);
+  font-size: .9375rem;
+}
+
 .summary {
   margin: .55rem 0 0;
 }
@@ -173,8 +175,63 @@ h3,
   padding: 1rem;
 }
 
+.cv-group + .cv-group {
+  margin-top: 1.75rem;
+}
+
+.cv-list {
+  margin: .8rem 0 0;
+}
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 1.25rem;
+  align-items: baseline;
+}
+
+.cv-entry + .cv-entry {
+  margin-top: .85rem;
+}
+
+.cv-entry dt {
+  font-weight: 700;
+}
+
+.cv-entry dd {
+  margin: 0;
+}
+
+.cv-dates {
+  color: var(--muted);
+  font-size: .9rem;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.cv-role {
+  grid-column: 1 / -1;
+}
+
+.cv-role span {
+  margin: 0 .15em;
+  color: var(--muted);
+}
+
 .background h2:not(:first-child) {
   margin-top: 1.75rem;
+}
+
+@media (max-width: 32rem) {
+  .cv-entry {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .cv-dates {
+    order: 1;
+    text-align: left;
+  }
 }
 
 .background ul {
