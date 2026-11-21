@@ -148,12 +148,12 @@ background:
       - institution: The University of Sydney
         dates: 2022–2026
         role: PhD in Computer Science
-        detail: Advisor: "Tongliang Liu"
+        detail: "Advisor: Tongliang Liu"
         url: https://tongliang-liu.github.io
       - institution: Chongqing University
         dates: 2018–2022
         role: BEng in Computer Science
-        detail: Advisor: "Lei Feng"
+        detail: "Advisor: Lei Feng"
         url: https://lfeng1995.github.io
   - title: Research Experience
     entries:
