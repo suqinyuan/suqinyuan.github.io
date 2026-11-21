@@ -33,6 +33,7 @@ sections:
       - title: Are Human-Aligned LLMs Models of Humans? A Turing-Test Gap in Preference Alignment
         other_authors: Runqi Lin, Muyang Li, Guanzhe Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu
         image: human.png
+        image_scale: 0.8
         alt: Comparison of human response frequencies with the frequencies obtained after weighting responses by preference.
         summary: Optimizing for what people prefer can systematically make model responses less human-like.
         venues:
