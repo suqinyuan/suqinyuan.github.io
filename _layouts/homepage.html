@@ -40,16 +40,17 @@
         </div>
         <div class="bio-text">
           <h1>{{ site.author.name | escape }}</h1>
-          {{ page.bio | markdownify }}
+          {% assign bio = page.bio | strip %}
           {% if page.research_questions %}
-          <section aria-labelledby="research-questions">
-            <h2 id="research-questions">Machine learning questions I’m thinking about</h2>
-            <ol>
-              {% for question in page.research_questions %}
-              <li>{{ question | escape }}</li>
-              {% endfor %}
-            </ol>
-          </section>
+          {% assign bio = bio | append: " Machine learning questions I’m thinking about:" %}
+          {% endif %}
+          {{ bio | markdownify }}
+          {% if page.research_questions %}
+          <ol id="research-questions" aria-label="Machine learning questions I’m thinking about">
+            {% for question in page.research_questions %}
+            <li>{{ question | escape }}</li>
+            {% endfor %}
+          </ol>
           {% endif %}
           {% assign email = site.author.email | default: site.author.bio %}
           <nav class="contact-links" aria-label="Contact and profiles">
