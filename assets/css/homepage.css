@@ -56,11 +56,11 @@ a:focus-visible {
 }
 
 .bio-text {
-  width: 63%;
+  flex: 1;
 }
 
 .bio-photo {
-  width: 37%;
+  width: 27.4%;
 }
 
 .bio-photo img {
@@ -247,35 +247,31 @@ h3,
   margin: 0;
 }
 
-footer {
-  padding: 1.1rem 1rem;
-  font-size: .85rem;
-  color: var(--muted);
-  text-align: right;
-}
-
 @media (max-width: 40rem) {
   .page {
     padding: 0;
   }
 
   .bio {
-    flex-direction: column-reverse;
+    display: flow-root;
+    padding: 1.25rem 1rem .5rem;
   }
 
   .bio-photo {
-    width: 9.25rem;
-    padding: 1.25rem 0 0;
+    float: left;
+    width: 6.475rem;
+    margin: 0 1rem .5rem 0;
+    padding: 0;
   }
 
   .bio-text {
-    width: 100%;
-    padding: .5rem 1rem;
+    padding: 0;
   }
 
   h1 {
-    padding-top: .5rem;
+    padding-top: 0;
     font-size: 1.75rem;
+    text-align: left;
   }
 
   .paper:not(.text-only) {
