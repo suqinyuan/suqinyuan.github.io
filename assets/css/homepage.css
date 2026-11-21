@@ -60,7 +60,7 @@ a:focus-visible {
 }
 
 .bio-photo {
-  width: 35.38784%;
+  width: 32.349056%;
 }
 
 .bio-photo img {
@@ -128,6 +128,15 @@ h2 {
   height: auto;
   max-height: calc(10rem * var(--figure-scale));
   object-fit: contain;
+}
+
+.paper-media.compact-image a {
+  width: 80%;
+  margin-inline: auto;
+}
+
+.paper-media.compact-image img {
+  max-height: calc(8rem * var(--figure-scale));
 }
 
 .paper-info {
@@ -260,7 +269,7 @@ h3,
 
   .bio-photo {
     float: left;
-    width: 8.783985rem;
+    width: 7.9055865rem;
     margin: 0 1rem .5rem 0;
     padding: 0;
   }
