@@ -60,7 +60,7 @@ a:focus-visible {
 }
 
 .bio-photo {
-  width: 27.4%;
+  width: 24.04%;
 }
 
 .bio-photo img {
@@ -113,19 +113,20 @@ h2 {
 }
 
 .paper {
+  --figure-scale: 1.15;
   display: grid;
-  grid-template-columns: 12rem minmax(0, 1fr);
+  grid-template-columns: calc(12rem * var(--figure-scale)) minmax(0, 1fr);
   align-items: center;
 }
 
 .paper-media {
-  padding: 1rem;
+  padding: calc(1rem * var(--figure-scale));
 }
 
 .paper-media img {
   width: 100%;
   height: auto;
-  max-height: 10rem;
+  max-height: calc(10rem * var(--figure-scale));
   object-fit: contain;
 }
 
@@ -259,7 +260,7 @@ h3,
 
   .bio-photo {
     float: left;
-    width: 6.475rem;
+    width: 5.50375rem;
     margin: 0 1rem .5rem 0;
     padding: 0;
   }
@@ -275,11 +276,12 @@ h3,
   }
 
   .paper:not(.text-only) {
-    grid-template-columns: clamp(5.5rem, 30vw, 7.75rem) minmax(0, 1fr);
+    grid-template-columns: calc(clamp(5.5rem, 30vw, 7.75rem) * var(--figure-scale)) minmax(0, 1fr);
   }
 
   .paper-media {
-    padding: .75rem .5rem .75rem .75rem;
+    padding: calc(.75rem * var(--figure-scale));
+    padding-right: calc(.5rem * var(--figure-scale));
   }
 
   .paper-info {
