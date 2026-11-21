@@ -339,4 +339,14 @@ h3,
     padding: .328125rem var(--mobile-inset);
     overflow-wrap: anywhere;
   }
+
+  .cv-role > span[aria-hidden="true"] {
+    display: none;
+  }
+
+  .cv-role > a {
+    display: block;
+    width: fit-content;
+    max-width: 100%;
+  }
 }
