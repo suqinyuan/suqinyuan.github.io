@@ -10,9 +10,9 @@ bio: |-
   I study overfitting in machine learning. My current work focuses on LLM pre- and post-training.
 
 research_questions:
-  - Can AI act as a person rather than an assistant?
-  - What happens when we run out of high-quality pretraining data?
-  - How can a strong model teach a weaker one?
+  - AI that acts as a person rather than an assistant
+  - What happens when we run out of high-quality pretraining data
+  - How a strong model can teach a weaker one
 
 sections:
   - id: recent-work
