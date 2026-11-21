@@ -11,7 +11,7 @@ bio: |-
 
 research_questions:
   - AI that acts as a person rather than an assistant
-  - What happens when we run out of high-quality pretraining data
+  - When we run out of high-quality pretraining data
   - How a strong model can teach a weaker one
 
 sections:
