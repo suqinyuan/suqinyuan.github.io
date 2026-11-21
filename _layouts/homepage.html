@@ -61,15 +61,13 @@
         </div>
       </header>
 
-      {% for section in page.sections %}
-      <section class="research" aria-labelledby="{{ section.id | escape }}">
-        <h2 id="{{ section.id | escape }}">{{ section.title | escape }}</h2>
-        <div class="papers">
+      <section class="papers" aria-label="Research papers">
+        {% for section in page.sections %}
           {% for paper in section.papers %}
           {% assign first_venue = paper.venues | first %}
           {% assign primary_link = first_venue.links | first %}
           {% assign title_href = paper.title_url | default: primary_link.url %}
-          <article class="paper{% unless paper.image %} text-only{% endunless %}">
+          <article class="paper{% unless paper.image %} text-only{% endunless %}"{% if forloop.first %} id="{{ section.id | escape }}"{% endif %}>
             {% if paper.image %}
             <div class="paper-media{% if paper.compact_image %} compact-image{% endif %}"{% if paper.image_scale %} style="--image-scale: {{ paper.image_scale | escape }}"{% endif %}>
               <a href="{{ title_href | escape }}" tabindex="-1">
@@ -78,7 +76,7 @@
             </div>
             {% endif %}
             <div class="paper-info">
-              <h3><a href="{{ title_href | escape }}">{{ paper.title | escape }}</a></h3>
+              <h2><a href="{{ title_href | escape }}">{{ paper.title | escape }}</a></h2>
               <p class="authors"><strong>{{ site.author.name | escape }}</strong>{% if paper.other_authors %}, {{ paper.other_authors | escape }}{% endif %}</p>
               {% for venue in paper.venues %}
               <div class="venue{% if venue.prefix %} journal{% endif %}">
@@ -90,9 +88,8 @@
             </div>
           </article>
           {% endfor %}
-        </div>
+        {% endfor %}
       </section>
-      {% endfor %}
 
       <div class="background" id="education-and-experience">
         {% for group in page.background %}
