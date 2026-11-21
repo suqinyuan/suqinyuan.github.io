@@ -17,7 +17,7 @@ sections:
         other_authors: Runqi Lin, Kevin Qinghong Lin, Junchi Yu, Lei Feng, Chris Russell, Tongliang Liu
         image: tokens.png
         alt: Figure 3. GPT-2 validation loss during training with random versus predictable replacements under clean, standard, target-only and context-only conditions.
-        summary: Making a corrupted token easier to predict makes it less harmful as a training target and more harmful as context for the next tokens.
+        summary: Making a corrupted token easier to predict makes it less harmful as a training target but more harmful as context for the next tokens.
         venues:
           - label: "arXiv:2609.33405"
             year: 2026
@@ -29,7 +29,7 @@ sections:
         other_authors: Runqi Lin, Muyang Li, Guanzhe Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu
         image: human.png
         alt: Comparison of human response frequencies with the frequencies obtained after weighting responses by preference.
-        summary: Training on what people prefer in an assistant’s answers can move a model further from how people answer the same question themselves.
+        summary: Preference alignment is often described as aligning models with humans, yet optimizing for what people prefer can systematically make model responses less human-like.
         venues:
           - label: "arXiv:2609.23640"
             year: 2026
@@ -41,7 +41,7 @@ sections:
         other_authors: Jinkun Chen, Jiyang Zheng, Muyang Li, Lei Feng, Dadong Wang, Tao Xiang, Tongliang Liu, Bo An
         image: rlvr.png
         alt: Training updates allocated to different problems alongside the model’s Pass@256 score.
-        summary: Once a model can solve a problem in many attempts, further training can improve single-attempt accuracy while doing little to expand the set of problems it can solve.
+        summary: Much of the diversity collapse observed in RLVR can be explained by overtraining.
         venues:
           - label: "arXiv:2606.15455"
             year: 2026
@@ -56,7 +56,7 @@ sections:
         other_authors: Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, Tongliang Liu
         image: hypo.webp
         alt: Gradient weights for HyPO across policy and reference preference margins.
-        summary: HyPO prevents a reference model’s preference for a rejected answer from weakening the update toward the chosen answer.
+        summary: DPO’s reference model can weaken learning when it favors the rejected response. We remove its contribution only for those preference pairs.
         venues:
           - label: ICLR
             url: https://iclr.cc/Conferences/2026
@@ -72,7 +72,7 @@ sections:
         other_authors: Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
         image: ies.webp
         alt: Accuracy and fraction of training examples used on CIFAR-10 and ImageNet-1k.
-        summary: Tracking how each example’s loss changes lets training skip backward passes on examples the model has already learned.
+        summary: If overfitting can be benign, we should decide when to stop training on each example individually.
         venues:
           - label: ICLR
             url: https://iclr.cc/Conferences/2025
@@ -92,7 +92,7 @@ sections:
         other_authors: Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
         image: labelwave.webp
         alt: Changes in predicted labels during training plotted alongside test error.
-        summary: Changes in the model’s predictions on its own training data help identify when to stop training without a clean validation set.
+        summary: We can track how well a model generalizes simply by monitoring how its predictions change on the training set.
         venues:
           - label: ICLR
             url: https://iclr.cc/Conferences/2024
@@ -110,7 +110,7 @@ sections:
         other_authors: Lei Feng, Bo Han, Tongliang Liu
         image: earlycutting.webp
         alt: Six CIFAR-10 images with incorrect labels that the model learns early in training.
-        summary: Early Cutting identifies mislabeled examples that a model learns surprisingly early and removes them from the training set.
+        summary: Some mislabeled examples are easier for a model to learn than correctly labeled ones.
         venues:
           - label: NeurIPS
             url: https://neurips.cc/Conferences/2025
@@ -125,7 +125,7 @@ sections:
         other_authors: Lei Feng, Tongliang Liu
         image: latestopping.webp
         alt: Distributions showing when a network first learns clean and mislabeled CIFAR-10 examples.
-        summary: The order in which a network first learns its training labels helps identify mislabeled examples for removal.
+        summary: In iterative sample selection, a larger initial set of examples can start a positive feedback loop in which better models select better data for the next round.
         venues:
           - label: ICCV
             url: https://iccv2023.thecvf.com
