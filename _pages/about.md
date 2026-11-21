@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 bio: |-
-  I am a Postdoctoral Research Associate at the [University of Sydney](https://www.sydney.edu.au), where I also completed my PhD under the supervision of [Prof. Tongliang Liu](https://tongliang-liu.github.io).
+  I am a Postdoctoral Research Associate at the [University of Sydney](https://www.sydney.edu.au), where I also did my PhD with [Tongliang Liu](https://tongliang-liu.github.io).
 
   I study overfitting in machine learning. My current work focuses on LLM pre- and post-training. I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
 
@@ -83,12 +83,9 @@ sections:
                 url: https://openreview.net/pdf?id=P42DbV2nuV
               - label: Code
                 url: https://github.com/tmllab/2025_ICLR_IES
-          - label: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+          - label: IEEE Transactions on Pattern Analysis and Machine Intelligence
             prefix: also at
             url: https://www.computer.org/csdl/journal/tp
-            links:
-              - label: Paper
-                url: https://ieeexplore.ieee.org/document/11517544
 
       - title: Early Stopping Without Validation Data in Weakly Supervised Learning
         title_url: https://ieeexplore.ieee.org/document/11604166
@@ -105,12 +102,9 @@ sections:
                 url: https://openreview.net/pdf?id=CMzF2aOfqp
               - label: Code
                 url: https://github.com/tmllab/2024_ICLR_LabelWave
-          - label: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+          - label: IEEE Transactions on Pattern Analysis and Machine Intelligence
             prefix: also at
             url: https://www.computer.org/csdl/journal/tp
-            links:
-              - label: Paper
-                url: https://ieeexplore.ieee.org/document/11604166
 
       - title: Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples
         other_authors: Lei Feng, Bo Han, Tongliang Liu
@@ -148,7 +142,7 @@ background:
       - institution: The University of Sydney
         dates: 2022–2026
         role: PhD in Computer Science
-        detail: "Advisor: Prof. Tongliang Liu"
+        detail: "Advisor: Tongliang Liu"
         url: https://tongliang-liu.github.io
       - institution: Chongqing University
         dates: 2018–2022
