@@ -109,18 +109,18 @@ h2 {
 
 .papers {
   display: grid;
-  gap: .625rem;
+  row-gap: .46875rem;
 }
 
 .paper {
-  --figure-scale: 1.15;
+  --figure-scale: 1.3225;
   display: grid;
   grid-template-columns: calc(12rem * var(--figure-scale)) minmax(0, 1fr);
   align-items: center;
 }
 
 .paper-media {
-  padding: calc(1rem * var(--figure-scale));
+  padding: .8625rem calc(1rem * var(--figure-scale));
 }
 
 .paper-media img {
@@ -131,7 +131,7 @@ h2 {
 }
 
 .paper-info {
-  padding: .5rem;
+  padding: .375rem .5rem;
 }
 
 .text-only {
@@ -280,12 +280,12 @@ h3,
   }
 
   .paper-media {
-    padding: calc(.75rem * var(--figure-scale));
+    padding: .646875rem calc(.75rem * var(--figure-scale));
     padding-right: calc(.5rem * var(--figure-scale));
   }
 
   .paper-info {
-    padding: .625rem .75rem .625rem .375rem;
+    padding: .46875rem .75rem .46875rem .375rem;
     overflow-wrap: anywhere;
   }
 }
