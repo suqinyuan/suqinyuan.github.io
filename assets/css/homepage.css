@@ -131,12 +131,12 @@ h2 {
 }
 
 .paper-media.compact-image a {
-  width: 80%;
+  width: 68%;
   margin-inline: auto;
 }
 
 .paper-media.compact-image img {
-  max-height: calc(8rem * var(--figure-scale));
+  max-height: calc(6.8rem * var(--figure-scale));
 }
 
 .paper-info {
