@@ -109,7 +109,7 @@ h2 {
 
 .papers {
   display: grid;
-  row-gap: .46875rem;
+  row-gap: .328125rem;
 }
 
 .paper {
@@ -120,7 +120,7 @@ h2 {
 }
 
 .paper-media {
-  padding: .8625rem calc(1rem * var(--figure-scale));
+  padding: .60375rem calc(1rem * var(--figure-scale));
 }
 
 .paper-media img {
@@ -131,16 +131,16 @@ h2 {
 }
 
 .paper-media.compact-image a {
-  width: 68%;
+  width: 74.8%;
   margin-inline: auto;
 }
 
 .paper-media.compact-image img {
-  max-height: calc(6.8rem * var(--figure-scale));
+  max-height: calc(7.48rem * var(--figure-scale));
 }
 
 .paper-info {
-  padding: .375rem .5rem;
+  padding: .2625rem .5rem;
 }
 
 .text-only {
@@ -289,12 +289,12 @@ h3,
   }
 
   .paper-media {
-    padding: .646875rem calc(.75rem * var(--figure-scale));
+    padding: .4528125rem calc(.75rem * var(--figure-scale));
     padding-right: calc(.5rem * var(--figure-scale));
   }
 
   .paper-info {
-    padding: .46875rem .75rem .46875rem .375rem;
+    padding: .328125rem .75rem .328125rem .375rem;
     overflow-wrap: anywhere;
   }
 }
