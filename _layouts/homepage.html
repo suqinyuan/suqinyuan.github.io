@@ -42,11 +42,11 @@
           <h1>{{ site.author.name | escape }}</h1>
           {% assign bio = page.bio | strip %}
           {% if page.research_questions %}
-          {% assign bio = bio | append: " Machine learning questions I’m thinking about:" %}
+          {% assign bio = bio | append: " I am interested in:" %}
           {% endif %}
           {{ bio | markdownify }}
           {% if page.research_questions %}
-          <ol id="research-questions" aria-label="Machine learning questions I’m thinking about">
+          <ol id="research-questions" aria-label="Research interests">
             {% for question in page.research_questions %}
             <li>{{ question | escape }}</li>
             {% endfor %}
