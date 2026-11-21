@@ -34,7 +34,7 @@ sections:
         other_authors: Runqi Lin, Muyang Li, Guanzhe Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu
         image: human.png
         alt: Comparison of human response frequencies with the frequencies obtained after weighting responses by preference.
-        summary: Preference alignment is often described as aligning models with humans, yet optimizing for what people prefer can systematically make model responses less human-like.
+        summary: Optimizing for what people prefer can systematically make model responses less human-like.
         venues:
           - label: "arXiv:2609.23640"
             year: 2026
