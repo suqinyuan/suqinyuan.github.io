@@ -9,6 +9,11 @@ bio: |-
 
   I study overfitting in machine learning. My current work focuses on LLM pre- and post-training. I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
 
+research_questions:
+  - Can a language model step out of the assistant role and respond as a person would?
+  - What happens when we run out of high-quality pretraining data?
+  - How can a strong model teach a weaker one skills that transfer to new tasks?
+
 sections:
   - id: recent-work
     title: Recent Work
