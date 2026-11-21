@@ -4,10 +4,10 @@ permalink: /
 redirect_from:
   - /about/
   - /about.html
-bio: >-
-  I received my PhD from the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html),
-  [The University of Sydney](https://www.sydney.edu.au). I study overfitting in machine learning and work on LLM pre- and post-training under imperfect supervision.
-  I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
+bio: |-
+  I am a Postdoctoral Research Associate at the [University of Sydney](https://www.sydney.edu.au), where I also completed my PhD under the supervision of [Prof. Tongliang Liu](https://tongliang-liu.github.io).
+
+  I study overfitting in machine learning. My current work focuses on LLM pre- and post-training. I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
 
 sections:
   - id: recent-work
@@ -16,7 +16,7 @@ sections:
       - title: Decoupling Token Roles in Autoregressive Pretraining
         other_authors: Runqi Lin, Kevin Qinghong Lin, Junchi Yu, Lei Feng, Chris Russell, Tongliang Liu
         image: tokens.png
-        alt: Effects of a noisy token’s predictability on learning from it as a target and as context.
+        alt: Figure 3. GPT-2 validation loss during training with random versus predictable replacements under clean, standard, target-only and context-only conditions.
         summary: Making a corrupted token easier to predict makes it less harmful as a training target and more harmful as context for the next tokens.
         venues:
           - label: "arXiv:2609.33405"
@@ -68,16 +68,12 @@ sections:
                 url: https://github.com/tmllab/2026_ICLR_HyPO
 
       - title: Instance-dependent Early Stopping for Adaptive Data Pruning
+        title_url: https://ieeexplore.ieee.org/document/11517544
         other_authors: Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
         image: ies.webp
         alt: Accuracy and fraction of training examples used on CIFAR-10 and ImageNet-1k.
         summary: Tracking how each example’s loss changes lets training skip backward passes on examples the model has already learned.
         venues:
-          - label: TPAMI
-            url: https://www.computer.org/csdl/journal/tp
-            links:
-              - label: Paper
-                url: https://ieeexplore.ieee.org/document/11517544
           - label: ICLR
             url: https://iclr.cc/Conferences/2025
             year: 2025
@@ -87,18 +83,20 @@ sections:
                 url: https://openreview.net/pdf?id=P42DbV2nuV
               - label: Code
                 url: https://github.com/tmllab/2025_ICLR_IES
+          - label: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+            prefix: also at
+            url: https://www.computer.org/csdl/journal/tp
+            links:
+              - label: Paper
+                url: https://ieeexplore.ieee.org/document/11517544
 
       - title: Early Stopping Without Validation Data in Weakly Supervised Learning
+        title_url: https://ieeexplore.ieee.org/document/11604166
         other_authors: Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
         image: labelwave.webp
         alt: Changes in predicted labels during training plotted alongside test error.
         summary: Changes in the model’s predictions on its own training data help identify when to stop training without a clean validation set.
         venues:
-          - label: TPAMI
-            url: https://www.computer.org/csdl/journal/tp
-            links:
-              - label: Paper
-                url: https://ieeexplore.ieee.org/document/11604166
           - label: ICLR
             url: https://iclr.cc/Conferences/2024
             year: 2024
@@ -107,6 +105,12 @@ sections:
                 url: https://openreview.net/pdf?id=CMzF2aOfqp
               - label: Code
                 url: https://github.com/tmllab/2024_ICLR_LabelWave
+          - label: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+            prefix: also at
+            url: https://www.computer.org/csdl/journal/tp
+            links:
+              - label: Paper
+                url: https://ieeexplore.ieee.org/document/11604166
 
       - title: Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples
         other_authors: Lei Feng, Bo Han, Tongliang Liu
@@ -137,24 +141,38 @@ sections:
                 url: https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Late_Stopping_Avoiding_Confidently_Learning_from_Mislabeled_Examples_ICCV_2023_paper.pdf
               - label: Code
                 url: https://github.com/tmllab/2023_ICCV_LateStopping
+
+background:
+  - title: Education
+    entries:
+      - institution: The University of Sydney
+        dates: 2022–2026
+        role: PhD in Computer Science
+        detail: "Advisor: Prof. Tongliang Liu"
+        url: https://tongliang-liu.github.io
+      - institution: Chongqing University
+        dates: 2018–2022
+        role: BEng in Computer Science
+        detail: "Advisor: Prof. Lei Feng"
+        url: https://lfeng1995.github.io
+  - title: Research Experience
+    entries:
+      - institution: University of Oxford
+        dates: Mar–Sep 2026
+        role: Student Visitor
+        detail: Torr Vision Group
+        url: https://torrvision.com/
+      - institution: Nanyang Technological University
+        dates: Dec 2025 – Feb 2026
+        role: Visiting Student
+        detail: AI-for-X Centre
+        url: https://www.ntu.edu.sg/ai-x
+      - institution: Agency for Science, Technology and Research (A*STAR)
+        dates: Aug–Dec 2025
+        role: Research Officer
+        detail: Centre for Frontier AI Research
+        url: https://www.a-star.edu.sg/cfar
 ---
-
-## Education and Experience
-
-- **The University of Sydney**, *2022 – 2026* <br>
-  Ph.D., Computer Science, Advisor: Prof. [Tongliang Liu](https://tongliang-liu.github.io)
-
-- **Chongqing University**, *2018 – 2022*<br>
-  B.Eng., Computer Science, Advisor: Prof. [Lei Feng](https://lfeng1995.github.io)
-
-- **University of Oxford**, Mar. – Sep. 2026<br>
-  Student Visitor, [Torr Vision Group](https://torrvision.com/)
-
-- **Nanyang Technological University**, Dec. 2025 – Feb. 2026<br>
-  Visiting Student, [AI-for-X Centre](https://www.ntu.edu.sg/ai-x)
-
-- **Agency for Science, Technology and Research (A&#42;STAR)**, Aug. – Dec. 2025<br>
-  Research Officer, [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar)
 
 ## Honors and Awards
 
