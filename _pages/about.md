@@ -60,6 +60,7 @@ sections:
       - title: Mitigating Mismatch within Reference-based Preference Optimization
         other_authors: Xingrui Yu, Jiyang Zheng, Lei Feng, Dadong Wang, Ivor Tsang, Tongliang Liu
         image: hypo.webp
+        compact_image: true
         alt: Gradient weights for HyPO across policy and reference preference margins.
         summary: DPO’s reference model can weaken learning when it favors the rejected response. We remove its contribution only for those preference pairs.
         venues:
@@ -127,8 +128,9 @@ sections:
       - title: "Late Stopping: Avoiding Confidently Learning from Mislabeled Examples"
         other_authors: Lei Feng, Tongliang Liu
         image: latestopping.webp
+        compact_image: true
         alt: Distributions showing when a network first learns clean and mislabeled CIFAR-10 examples.
-        summary: In iterative sample selection, a larger initial set of examples can start a positive feedback loop in which better models select better data for the next round.
+        summary: A larger initial set of examples can start a positive feedback loop for iterative sample selection.
         venues:
           - label: ICCV
             url: https://iccv2023.thecvf.com
