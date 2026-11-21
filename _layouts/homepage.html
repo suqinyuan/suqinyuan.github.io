@@ -71,7 +71,7 @@
           {% assign title_href = paper.title_url | default: primary_link.url %}
           <article class="paper{% unless paper.image %} text-only{% endunless %}">
             {% if paper.image %}
-            <div class="paper-media">
+            <div class="paper-media{% if paper.compact_image %} compact-image{% endif %}">
               <a href="{{ title_href | escape }}" tabindex="-1">
                 <img src="{{ paper.image | prepend: '/images/research/' | relative_url }}" alt="{{ paper.alt | escape }}" loading="lazy" decoding="async">
               </a>
