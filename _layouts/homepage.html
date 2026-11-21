@@ -33,6 +33,11 @@
   <body>
     <main class="page">
       <header class="bio" id="about-me">
+        <div class="bio-photo">
+          <a href="{{ site.author.avatar | relative_url }}">
+            <img src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="1106" height="1232">
+          </a>
+        </div>
         <div class="bio-text">
           <h1>{{ site.author.name | escape }}</h1>
           {{ page.bio | markdownify }}
@@ -42,11 +47,6 @@
             <span aria-hidden="true">/</span>
             <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
           </nav>
-        </div>
-        <div class="bio-photo">
-          <a href="{{ site.author.avatar | relative_url }}">
-            <img src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="1106" height="1232">
-          </a>
         </div>
       </header>
 
@@ -72,7 +72,7 @@
               {% for venue in paper.venues %}
               <div class="venue{% if venue.prefix %} journal{% endif %}">
                 <em>{% if venue.prefix %}{{ venue.prefix | escape }} {% endif %}{% if venue.url %}<a href="{{ venue.url | escape }}">{{ venue.label | escape }}</a>{% else %}{{ venue.label | escape }}{% endif %}</em>{% if venue.year %}, {{ venue.year | escape }}{% endif %}{% if venue.note %} <strong class="venue-note">({{ venue.note | escape }})</strong>{% endif %}
-                <span class="paper-links">{% for link in venue.links %}{% unless forloop.first %}<span aria-hidden="true"> / </span>{% endunless %}<a href="{{ link.url | escape }}">{{ link.label | escape }}</a>{% endfor %}</span>
+                {% if venue.links %}<span class="paper-links">{% for link in venue.links %}{% unless forloop.first %}<span aria-hidden="true"> / </span>{% endunless %}<a href="{{ link.url | escape }}">{{ link.label | escape }}</a>{% endfor %}</span>{% endif %}
               </div>
               {% endfor %}
               {% if paper.summary %}<p class="summary">{{ paper.summary | escape }}</p>{% endif %}
@@ -100,7 +100,6 @@
         {% endfor %}
         {{ content }}
       </div>
-      <footer>Website template by <a href="https://github.com/jonbarron/jonbarron.github.io">Jon Barron</a>.</footer>
     </main>
   </body>
 </html>
