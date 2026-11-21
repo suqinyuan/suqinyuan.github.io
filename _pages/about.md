@@ -5,14 +5,14 @@ redirect_from:
   - /about/
   - /about.html
 bio: |-
-  I am a Postdoctoral Research Associate at the [University of Sydney](https://www.sydney.edu.au), where I also did my PhD with [Tongliang Liu](https://tongliang-liu.github.io).
+  I am a Postdoctoral Research Associate at the [University of Sydney](https://www.sydney.edu.au), where I also did my PhD with [Tongliang Liu](https://tongliang-liu.github.io). I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
 
-  I study overfitting in machine learning. My current work focuses on LLM pre- and post-training. I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
+  I study overfitting in machine learning. My current work focuses on LLM pre- and post-training.
 
 research_questions:
-  - Can a language model step out of the assistant role and respond as a person would?
+  - Can AI act as a person rather than an assistant?
   - What happens when we run out of high-quality pretraining data?
-  - How can a strong model teach a weaker one skills that transfer to new tasks?
+  - How can a strong model teach a weaker one?
 
 sections:
   - id: recent-work
@@ -72,8 +72,7 @@ sections:
               - label: Code
                 url: https://github.com/tmllab/2026_ICLR_HyPO
 
-      - title: Instance-dependent Early Stopping for Adaptive Data Pruning
-        title_url: https://ieeexplore.ieee.org/document/11517544
+      - title: Instance-dependent Early Stopping
         other_authors: Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
         image: ies.webp
         alt: Accuracy and fraction of training examples used on CIFAR-10 and ImageNet-1k.
@@ -90,10 +89,9 @@ sections:
                 url: https://github.com/tmllab/2025_ICLR_IES
           - label: IEEE Transactions on Pattern Analysis and Machine Intelligence
             prefix: also at
-            url: https://www.computer.org/csdl/journal/tp
+            url: https://ieeexplore.ieee.org/document/11517544
 
-      - title: Early Stopping Without Validation Data in Weakly Supervised Learning
-        title_url: https://ieeexplore.ieee.org/document/11604166
+      - title: Early Stopping Against Label Noise Without Validation Data
         other_authors: Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
         image: labelwave.webp
         alt: Changes in predicted labels during training plotted alongside test error.
@@ -109,7 +107,7 @@ sections:
                 url: https://github.com/tmllab/2024_ICLR_LabelWave
           - label: IEEE Transactions on Pattern Analysis and Machine Intelligence
             prefix: also at
-            url: https://www.computer.org/csdl/journal/tp
+            url: https://ieeexplore.ieee.org/document/11604166
 
       - title: Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples
         other_authors: Lei Feng, Bo Han, Tongliang Liu
