@@ -27,7 +27,7 @@
     <link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&amp;display=swap">
-    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}?v=b14a31b46cb5">
     {% if site.google_analytics_id %}{% include analytics.html %}{% endif %}
   </head>
   <body>
@@ -62,9 +62,13 @@
         <h2 class="research-heading" id="my-research">My Research</h2>
         {% for section in page.sections %}
           {% for paper in section.papers %}
+          {% if paper.title_url %}
+          {% assign title_href = paper.title_url %}
+          {% else %}
           {% assign first_venue = paper.venues | first %}
           {% assign primary_link = first_venue.links | first %}
-          {% assign title_href = paper.title_url | default: primary_link.url %}
+          {% assign title_href = primary_link.url %}
+          {% endif %}
           <article class="paper{% unless paper.image %} text-only{% endunless %}"{% if forloop.first %} id="{{ section.id | escape }}"{% endif %}>
             {% if paper.image %}
             <div class="paper-media{% if paper.compact_image %} compact-image{% endif %}"{% if paper.image_scale %} style="--image-scale: {{ paper.image_scale | escape }}"{% endif %}>
