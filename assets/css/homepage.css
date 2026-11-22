@@ -105,7 +105,7 @@ h2 {
 
 .papers {
   display: grid;
-  row-gap: .328125rem;
+  row-gap: .4265625rem;
 }
 
 .research-heading {
@@ -120,7 +120,7 @@ h2 {
 }
 
 .paper-media {
-  padding: .60375rem calc(1rem * var(--figure-scale));
+  padding: .784875rem calc(1rem * var(--figure-scale));
 }
 
 .paper-media a {
@@ -144,7 +144,7 @@ h2 {
 }
 
 .paper-info {
-  padding: .2625rem .5rem;
+  padding: .34125rem .5rem;
 }
 
 .text-only {
@@ -335,7 +335,7 @@ h2 {
   }
 
   .paper .paper-info {
-    padding: .328125rem var(--mobile-inset);
+    padding: .4265625rem var(--mobile-inset);
     overflow-wrap: anywhere;
   }
 
