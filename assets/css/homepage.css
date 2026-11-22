@@ -163,7 +163,7 @@ h2 {
 }
 
 .paper-info h3 {
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .venue,
@@ -324,7 +324,7 @@ h2 {
   }
 
   .research-heading {
-    padding: .5rem var(--mobile-inset);
+    padding: .5rem 1rem;
   }
 
   .paper {
