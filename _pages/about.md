@@ -7,11 +7,11 @@ redirect_from:
 bio: |-
   I am a postdoctoral researcher at the [University of Sydney](https://www.sydney.edu.au), where I also did my PhD with [Tongliang Liu](https://tongliang-liu.github.io). I was named an Outstanding Reviewer at ICLR, ICML, NeurIPS, and CVPR.
 
-  I study overfitting in machine learning. My current work focuses on LLM pre- and post-training, particularly
+  I study overfitting in machine learning. My current work focuses on LLM pre- and post-training, particularly:
 
 research_questions:
   - AI that acts as a person rather than an assistant
-  - When we run out of high-quality pretraining data
+  - Pretraining when high-quality data runs out
   - How a strong model can teach a weaker one
 
 sections:
