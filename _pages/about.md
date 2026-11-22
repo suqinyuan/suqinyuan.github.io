@@ -75,6 +75,7 @@ sections:
                 url: https://github.com/tmllab/2026_ICLR_HyPO
 
       - title: Instance-Dependent Early Stopping for Adaptive Data Pruning
+        title_url: https://ieeexplore.ieee.org/document/11517544
         other_authors: Runqi Lin, Felix Azian, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
         image: ies.webp
         alt: Accuracy and fraction of training examples used on CIFAR-10 and ImageNet-1k.
@@ -83,9 +84,6 @@ sections:
           - label: IEEE Transactions on Pattern Analysis and Machine Intelligence
             url: https://www.computer.org/csdl/journal/tp
             year: 2026
-            links:
-              - label: Paper
-                url: https://ieeexplore.ieee.org/document/11517544
           - label: ICLR
             prefix: also at
             url: https://iclr.cc/Conferences/2025
@@ -98,6 +96,7 @@ sections:
                 url: https://github.com/tmllab/2025_ICLR_IES
 
       - title: Early Stopping Without Validation Data in Weakly Supervised Learning
+        title_url: https://ieeexplore.ieee.org/document/11604166
         other_authors: Muyang Li, Lei Feng, Bo Han, Gang Niu, Masashi Sugiyama, Tongliang Liu
         image: labelwave.webp
         alt: Changes in predicted labels during training plotted alongside test error.
@@ -106,9 +105,6 @@ sections:
           - label: IEEE Transactions on Pattern Analysis and Machine Intelligence
             url: https://www.computer.org/csdl/journal/tp
             year: 2026
-            links:
-              - label: Paper
-                url: https://ieeexplore.ieee.org/document/11604166
           - label: ICLR
             prefix: also at
             url: https://iclr.cc/Conferences/2024
