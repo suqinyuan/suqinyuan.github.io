@@ -159,7 +159,7 @@ background:
         role: BEng in Computer Science
         detail: "Advisor: Lei Feng"
         url: https://lfeng1995.github.io
-  - title: Research Experience
+  - title: Experience
     entries:
       - institution: University of Oxford
         dates: Mar–Sep 2026
