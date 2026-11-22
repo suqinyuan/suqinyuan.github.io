@@ -41,9 +41,6 @@
         <div class="bio-text">
           <h1>{{ site.author.name | escape }}</h1>
           {% assign bio = page.bio | strip %}
-          {% if page.research_questions %}
-          {% assign bio = bio | append: " I am interested in:" %}
-          {% endif %}
           {{ bio | markdownify }}
           {% if page.research_questions %}
           <ol id="research-questions" aria-label="Research interests">
@@ -61,7 +58,8 @@
         </div>
       </header>
 
-      <section class="papers" aria-label="Research papers">
+      <section class="papers" aria-labelledby="my-research">
+        <h2 class="research-heading" id="my-research">My Research</h2>
         {% for section in page.sections %}
           {% for paper in section.papers %}
           {% assign first_venue = paper.venues | first %}
@@ -76,7 +74,7 @@
             </div>
             {% endif %}
             <div class="paper-info">
-              <h2><a href="{{ title_href | escape }}">{{ paper.title | escape }}</a></h2>
+              <h3><a href="{{ title_href | escape }}">{{ paper.title | escape }}</a></h3>
               <p class="authors"><strong>{{ site.author.name | escape }}</strong>{% if paper.other_authors %}, {{ paper.other_authors | escape }}{% endif %}</p>
               {% for venue in paper.venues %}
               <div class="venue{% if venue.prefix %} journal{% endif %}">
