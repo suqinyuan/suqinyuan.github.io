@@ -270,7 +270,7 @@ h2 {
   }
 
   .bio {
-    --mobile-photo-height: calc(clamp(5rem, 30vw, 7.9055865rem) * 1232 / 1106);
+    --mobile-photo-height: calc(clamp(5rem, 30vw, 7.9055865rem) * 1232 / 1106 * 1.2);
     display: grid;
     grid-template-columns: calc(var(--mobile-photo-height) * 2149 / 2008) minmax(0, 1fr);
     column-gap: .75rem;
@@ -296,7 +296,7 @@ h2 {
     grid-area: 1 / 2;
     align-self: end;
     padding-top: 0;
-    font-size: 1.625rem;
+    font-size: 1.4625rem;
     text-align: center;
   }
 
@@ -353,5 +353,11 @@ h2 {
     display: block;
     width: fit-content;
     max-width: 100%;
+  }
+}
+
+@media (max-width: 22rem) {
+  .contact-links {
+    margin-inline: -.5rem;
   }
 }
