@@ -231,7 +231,6 @@ h2 {
 }
 
 .cv-role span {
-  margin: 0 .15em;
   color: var(--muted);
 }
 
@@ -271,8 +270,9 @@ h2 {
   }
 
   .bio {
+    --mobile-photo-height: calc(clamp(5rem, 30vw, 7.9055865rem) * 1232 / 1106);
     display: grid;
-    grid-template-columns: clamp(5rem, 30vw, 7.9055865rem) minmax(0, 1fr);
+    grid-template-columns: calc(var(--mobile-photo-height) * 2149 / 2008) minmax(0, 1fr);
     column-gap: .75rem;
     padding: 1.5rem var(--mobile-inset) .375rem;
   }
@@ -287,11 +287,16 @@ h2 {
     display: contents;
   }
 
+  .bio-photo img {
+    height: var(--mobile-photo-height);
+    object-fit: contain;
+  }
+
   .bio h1 {
     grid-area: 1 / 2;
     align-self: end;
     padding-top: 0;
-    font-size: 1.75rem;
+    font-size: 1.625rem;
     text-align: center;
   }
 
@@ -302,6 +307,7 @@ h2 {
     align-items: center;
     gap: .5rem;
     padding-top: .5rem;
+    font-size: clamp(.875rem, 3.75vw, .9375rem);
     text-align: center;
     overflow-wrap: anywhere;
   }
