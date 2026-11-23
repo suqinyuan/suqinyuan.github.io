@@ -27,7 +27,7 @@
     <link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&amp;display=swap">
-    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}?v=964e3d513db9">
+    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}?v=ae821764861a">
     {% if site.google_analytics_id %}{% include analytics.html %}{% endif %}
   </head>
   <body>
@@ -35,7 +35,10 @@
       <header class="bio" id="about-me">
         <div class="bio-photo">
           <a href="{{ site.author.avatar | relative_url }}">
-            <img src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="{{ site.author.avatar_width }}" height="{{ site.author.avatar_height }}">
+            <picture>
+              <source media="(max-width: 40rem)" srcset="{{ '/images/suqin-yuan.jpg' | relative_url }}" width="2149" height="2008">
+              <img src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="{{ site.author.avatar_width }}" height="{{ site.author.avatar_height }}">
+            </picture>
           </a>
         </div>
         <div class="bio-text">
@@ -102,7 +105,7 @@
             <div class="cv-entry">
               <dt>{{ entry.institution | escape }}</dt>
               <dd class="cv-dates">{{ entry.dates | escape }}</dd>
-              <dd class="cv-role">{{ entry.role | escape }} <span aria-hidden="true">·</span> <a href="{{ entry.url | escape }}">{{ entry.detail | escape }}</a></dd>
+              <dd class="cv-role">{{ entry.role | escape }}<span aria-hidden="true">,</span> <a href="{{ entry.url | escape }}">{{ entry.detail | escape }}</a></dd>
             </div>
             {% endfor %}
           </dl>
